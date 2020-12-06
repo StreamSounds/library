@@ -58,9 +58,9 @@ The following is a list of DMCA-Safe Music, Tunes, Sound effects for usage on th
 
 <table>
   <colgroup>
-    <col span="1" style="width: 15%;"><!--artist/website-->
-    <col span="1" style="width: 40%;"><!--main page link-->
-    <col span="1" style="width: 30%;"><!--terms/license link-->
+    <col span="1" style="width: 10%;"><!--artist/website-->
+    <col span="1" style="width: 15%;"><!--main page link-->
+    <col span="1" style="width: 15%;"><!--terms/license link-->
     <col span="1" style="width: 20%;"><!--commercial or non-commercial use-->
     <col span="1" style="width: 20%;"><!--credits to be given-->
     <col span="1" style="width: 20%;"><!--other information -->
@@ -68,7 +68,6 @@ The following is a list of DMCA-Safe Music, Tunes, Sound effects for usage on th
   <thead>
     <tr>
       <th>Artist / Website</th>
-      <th>Main Page Link</th>
       <th>Terms / License Link</th>
       <th>Commercial/Non-Commercial use</th>
       <th>Credits To Be Given</th>
@@ -84,168 +83,154 @@ The following is a list of DMCA-Safe Music, Tunes, Sound effects for usage on th
     <td></td>
     <td></td>
   </tr>-->
+
+  <!--
+<a href=''></a>
+  -->
     <tr>
-      <td>Tallbeard / Abstraction / Ben Burnes</td>
-      <td>https://tallbeard.itch.io/music-loop-bundle</td>
-      <td>http://abstractionmusic.com/#secLicensing</td>
+      <td><a href='https://tallbeard.itch.io'>Tallbeard</a> / <a href='http://abstractionmusic.com/'>Abstraction</a></td>
+      <td><a href='http://abstractionmusic.com/#secLicensing'>Tallbeard/Abstraction Licensing</a></td>
       <td>Both</td>
       <td>'If you are using a song, it is required to properly attribute it in your project's credits. When attributing music, list the song's title and give credit by name (Abstraction). Also, you must include a link to either the Bandcamp page (http://abstractionmusic.bandcamp.com/) or home page (http://www.abstractionmusic.com/).</td>
       <td>Ben Streams the development: https://www.twitch.tv/ben_burnes plus ben_burnes Today at 9:10 AM That is great, happy to be on that list :) If this is for streaming and recording content and not for game development, you can also mention that my entire Spotify library is content id free as well, which can be found at https://abstraction.rocks/</td>
     </tr>
     <tr>
-      <td>Dark Fantasy Studio</td>
+      <td><a href='http://darkfantasystudio.com/'>Dark Fantasy Studio</a>
+      <a href='https://www.humblebundle.com/software/big-royaltyfree-music-software'>Dark Fantasy Studio Humble (if it is still active)</a></td>
+      <td><a href='http://darkfantasystudio.com/premium-licence/'>Dark Fantasy Studio License</a></td>
+      <td>Both</td>
       <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href='https://incompetech.com/'>Incompetech</a></td>
+      <td><a href='https://incompetech.com/music/royalty-free/faq.html'>Incompetech License</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href='https://ocremix.org/'>OCRemix</a></td>
+      <td><a href='https://ocremix.org/info/Content_Policy'>OCRemix License</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href='http://anttismusic.blogspot.com/'>Anttis Blogspot</a>
+      <a href='https://www.soundclick.com/artist/default.cfm?bandID=1277008&content=about'>Anttis Soundclick</a>
+      <a href='https://www.reddit.com/r/opensource/comments/gyshoj/i_have_released_my_2000_instrumental_pieces_free/'>Anttis Reddit</a></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Incompetech</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>OCRemix</td>
-      <td></td>
+      <td><a href='https://tungerman.itch.io/tearjerker-music-pack'>Tungerman</a></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Anttis</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tungerman</td>
-      <td></td>
-      <td></td>
+      <td><a href='https://itch.io/profile/cactusdude'>Cactusdude</a></td>
+      <td><a href='https://creativecommons.org/licenses/by/4.0/'>Cactusdude License</a></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Cactusdude</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Stream Beats</td>
-      <td></td>
-      <td></td>
+      <td><a href='https://www.streambeats.com/'>Stream Beats</a></td>
+      <td><a href=''></a></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Pretzel Rocks</td>
+      <td><a href='https://www.pretzel.rocks/'>Pretzel Rocks</a></td>
+      <td><a href=''></a></td>
       <td></td>
       <td></td>
+      <td></td>
+    </tr>
+    <td><a href='https://www.epidemicsound.com/'>Epidemic Sounds</a></td>
+    <tr>
+      <td><a href=''></a></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Epidemic Sounds</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Monstercat</td>
-      <td></td>
-      <td></td>
+      <td><a href='https://www.monstercat.com/'>Monstercat</a></td>
+      <td><a href=''></a></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Wintergatan</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Audionautix</td>
-      <td></td>
-      <td></td>
+      <td><a href='https://wintergatan.net'>Wintergatan</a></td>
+      <td><a href='https://wintergatan.net/products/license-to-use-wintergatan-music-for-video-and-livestream-background-music'>Wintergatan License</a></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Ben Sound</td>
+      <td><a href='https://audionautix.com/'>Audionautix</a></td>
+      <td><a href='https://audionautix.com/faqs.php'>Audionautix License</a></td>
+      <td>Both</td>
+      <td>Credit needs given</td>
       <td></td>
+    </tr>
+    <tr>
+      <td><a href='https://bensound.com/'>Ben Sound</a></td>
+      <td><a href='https://bensound.com/licensing'>Ben Sound Licensing</a></td>
+      <td>Both</td>
+      <td>Credit needs given</td>
       <td></td>
+    </tr>
+    <tr>
+      <td><a href='https://ebeatzmusic.com/'>Ebeatz Music</a></td>
+      <td><a href='https://ebeatzmusic.com/licensing-agreement'>Ebeatz Licensing</a></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Ebeatz Music</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Chill Hop</td>
-      <td></td>
-      <td></td>
+      <td><a href='https://chillhop.com/'>Chill Hop</a></td>
+      <td><a href='https://chillhop.com/creators/#take-tour'>Chillhop Licensing</a></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Filmstro</td>
+      <td><a href='https://filmstro.com/'>Filmstro</a></td>
+      <td><a href='https://filmstro.com/music'>Filmstro Licensing</a></td>
+      <td>Both</td>
       <td></td>
       <td></td>
+    </tr>
+    <tr>
+      <td><a href='https://machinimasound.com/'>MachinimaSound</a></td>
+      <td><a href='https://machinimasound.com/licensing/'>MachinimaSound Licensing</a></td>
+      <td>Both</td>
+      <td></td>
+      <td>CCBY</td>
+    </tr>
+    <tr>
+      <td><a href='https://www.fesliyanstudios.com/'>Fesliyan Studios</a></td>
+      <td><a href='https://www.fesliyanstudios.com/policy'>Fesliyan Studios Licensing</a></td>
+      <td>Both (Read Policy)</td>
+      <td>Credit given for non license purchased</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href='https://freemusicarchive.org/home'>FMA Free Music Archive</a></td>
+      <td><a href='https://freemusicarchive.org/Terms_of_Use'>FMA Licensing</a></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>MachinimaSound</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fesliyan Studios</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>FMA Free Music Archive</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -258,7 +243,6 @@ The following is a list of DMCA-Safe Music, Tunes, Sound effects for usage on th
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
       <td></td>
@@ -266,39 +250,41 @@ The following is a list of DMCA-Safe Music, Tunes, Sound effects for usage on th
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
-      <td>Premium Beat</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Fesliyan Studios</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a href='https://www.premiumbeat.com/'>Premium Beat</a></td>
+      <td><a href='https://www.premiumbeat.com/music-agreement'>Premium Beat License</a></td>
+      <td>Both</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Epidemic Sound</td>
+      <td><a href='https://www.fesliyanstudios.com/royalty-free-music/downloads-c/christmas-music/33'>Fesliyan Studios</a></td>
+      <td><a href='https://www.fesliyanstudios.com/policy'>Fesliyan Studio License</a></td>
+      <td>Both(Read Policy)</td>
+      <td>Credit given for non-license purchased</td>
       <td></td>
-      <td></td>
+    </tr>
+    <tr>
+      <td><a href='https://www.epidemicsound.com/music/genres/christmas/'>Epidemic Sound</a></td>
+      <td><a href=''></a></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>FMA Free Music Archive</td>
+      <td><a href='https://freemusicarchive.org/genre/Christmas'>FMA Free Music Archive</a></td>
+      <td><a href='https://freemusicarchive.org/Terms_of_Use'>FMA License</a></td>
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
+    </tr>
+    <tr>
+    <td><a href='https://www.easysonglicensing.com/pages/help/articles/copyright-law/christmas-songs-in-the-public-domain.aspx'>Public Domain Information For Christas Music</a></td>
+    <td></td>
+    <td>Both</td>
+    <td></td>
+    <td>The Free Music Archive offers free downloads under Creative Commons and other licenses.</td>
     </tr>
   </tbody>
 </table>
