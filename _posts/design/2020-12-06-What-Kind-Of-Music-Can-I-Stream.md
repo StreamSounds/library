@@ -305,6 +305,33 @@ The following is a list of DMCA-Safe Music, Tunes, Sound effects for usage on th
   </tbody>
 </table>
 
+<table>
+  <colgroup>
+    <col span="1" style="width: 20%;"><!--author-->
+    <col span="1" style="width: 300%;"><!--//name-->
+    <!--
+    <col span="1" style="width: 10%;">
+    -->
+  </colgroup>
+  <tbody>
+  <!-- Author name-->
+    <tr>
+      <td>Author:</td>
+      <td>FlavCreations</td>
+    </tr>
+    <!-- author bio -->
+      <tr>
+        <td>Bio:</td>
+        <td>I am an indie game developer, programmer, streamer and researcher.</td>
+      </tr>
+      <!-- author links -->
+      <!-- <a href=''></a> -->
+      <tr>
+        <td>Author Links:</td>
+        <td><a href="https://linktr.ee/FlavCreations">Flav's Socials</a></td>
+      </tr>
+  </tbody>
+</table>
 
 
 
