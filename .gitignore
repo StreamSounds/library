@@ -1,7 +1,11 @@
 _site
-.bundle
 .DS_Store
-.jekyll-cache
-.jekyll-metadata
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
+node_modules
 .sass-cache
-Gemfile.lock
+.jekyll-metadata
+.bundle
+vendor/
+images/.comments
