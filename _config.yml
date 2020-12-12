@@ -1,10 +1,10 @@
 # Site
 name: "The Library by StreamSounds"
 title: "The Library by StreamSounds"
-description: "A collection of advice, tips, and tactics by the StreamSounds community."
+description: "A collection of tips and advice for streamers by the StreamSounds community."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: /
+baseurl: ''
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
@@ -17,7 +17,7 @@ authors:
     name: OGJunkyard
     display_name: OGJunkyard
     avatar: ''
-    gravatar:
+    gravatar: ''
     email: ogjunkyard@gmail.com
     web: https://twitch.tv/OGJunkyard
     twitter: https://twitter.com/OGJunkyard
@@ -26,10 +26,10 @@ authors:
     name: Flavius
     display_name: Flavius
     avatar: 'assets/images/avatar.png'
-    gravatar:
-    email:
-    web:
-    twitter:
+    gravatar: ''
+    email: ''
+    web: ''
+    twitter: ''
     description: ""
 
 # Plugins
