@@ -1,7 +1,13 @@
 _site
 .bundle
 .DS_Store
+<<<<<<< Updated upstream
 .jekyll-cache
 .jekyll-metadata
 .sass-cache
 Gemfile.lock
+=======
+*.swp
+.sass-cache
+*~
+>>>>>>> Stashed changes
