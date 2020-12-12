@@ -2,8 +2,8 @@
 layout: post
 title:  "Introducing the Library"
 author: ogjunkyard,
-categories: [  ]
-image: ""
+categories: [ about us ]
+image: "assets/images/logo.png"
 featured: true
 ---
 
