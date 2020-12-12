@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # ASCII-Font › http://patorjk.com/software/taag/#p=display&f=Slant&t=Phlow
 #
 #      _____ _ __          _____      __  __  _
@@ -272,3 +273,73 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
+=======
+# Site
+name: "Stream Sounds Library"
+title: "Stream Sounds Library"
+description: "A place of learning, sharing, and teaching."
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl:
+google_analytics: 'UA-46278016-1'
+disqus: ''
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+OGJunkyard:
+  name: "OGJunkyard"
+  display_name: "OGJunkyard"
+  description: "webmaster, developer, copywriter, designer, streamer"
+  uri: https://www.twitch.tv/OGJunkyard/
+  twitter: "@OGJunkyard"
+Flavius:
+    name: "Flavius"
+    display_name: "Flavius"
+    avatar: "assets/images/dmca'd.jpg"
+    web: https://www.flavcreations.com/
+    uri: https://www.twitch.tv/flavcreations/
+    twitter: "@FlavCreations"
+    description: "Game Developer, Researcher, Streamer, Web Developer"
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+>>>>>>> Stashed changes
