@@ -16,7 +16,7 @@ authors:
   ogjunkyard:
     name: OGJunkyard
     display_name: OGJunkyard
-    avatar: ''
+    avatar: 'assets/images/OGFace.jpg'
     gravatar: ''
     email: ogjunkyard@gmail.com
     web: https://twitch.tv/OGJunkyard
@@ -25,7 +25,7 @@ authors:
   flavius:
     name: Flavius
     display_name: Flavius
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/Flavorful_Logo.png'
     gravatar: ''
     email: ''
     web: ''
