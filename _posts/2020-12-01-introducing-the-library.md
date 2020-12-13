@@ -21,6 +21,8 @@ I had been streaming on Twitch for two years solidly when I got the idea to post
 
 I started talking to one of my regular viewers, FlavCreations, who has been very helpful in my stream and in another community we are both a part of called Infinite Quality. He ended up liking the idea, so we decided to try to come up with a way to share our ideas. I pitched Flav the idea of putting out content that could be proven and repeatable, which he seemed to like, so we decided to give it a shot.
 
+Flav and I kicked around a handful of ideas what to call this. We thought the terms "school" or "university" was a bit too formal, as if we were trying to provide full-blown courses. Flav came up with the idea for a "library" of content, on the basis of people giving information and books in a shared communal environment. I thought it was a great idea, so here we are.
+
 ### Why this will be helpful to streamers
 
 Let's talk about why we believe the Library by StreamSounds will be helpful to the streaming community at large.
@@ -40,7 +42,7 @@ Here's how we want to engage with the streamer community at large through the Li
 1. We may make money off this content through things like affiliate links or sponsorships, but that's not the driving goal behind this site. When we do make money, we will explicitly call it out and make sure you are aware of it.
 1. We will do our best to put every piece of content through rigorous review and scrutiny. We want each piece of content to be the best piece of content about that topic that we can come up with.
 1. There are no guarantees of success on this website. There will not be guarantees of success either. We understand that not everyone approaches streaming the same way. Something that works well for one person may not be usable by another person. At the end of the day, just because you implement something you found on the Library by StreamSounds does not mean it will work for you in the way you expected or at all. Think of the content that gets put out here as friend-to-friend advice.
-1. We will do our best to give fair and honest reviews, advice, and help about products, services, and tools that we find and use in the service of streaming. If we think an offering is the best in class, we will say that. If we think it comes up short in an area, we will say that too. 
+1. We will do our best to give fair and honest reviews, advice, and help about products, services, and tools that we find and use in the service of streaming. If we think an offering is the best in class, we will say that. If we think it comes up short in an area, we will say that too.
 1. In a situation where we are comparing products or services, StreamSounds (the product/service) will not be included in the comparison as that would be a conflict of interest. There is no way this situation would ever be considered a fair comparison by the broader community, so we want to call it out ahead of time as one of our commitments to you.
 
 ### OGJunkyard's motivations and his promise to you
