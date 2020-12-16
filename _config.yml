@@ -17,8 +17,8 @@ authors:
     name: OGJunkyard
     display_name: OGJunkyard
     avatar: 'assets/images/OGFace.jpg'
-    gravatar:
     email: ogjunkyard@gmail.com
+    stream: https://twitch.tv/OGJunkyard
     web: https://twitch.tv/OGJunkyard
     twitter: https://twitter.com/OGJunkyard
     description: "Founder of StreamSounds"
@@ -26,8 +26,8 @@ authors:
     name: Flavius
     display_name: Flavius
     avatar: 'assets/images/Flavorful_Logo.png'
-    gravatar:
     email: flaviuscreations@gmail.com
+    stream: https://www.twitch.tv/FlavCreations
     web: https://www.twitch.tv/FlavCreations
     twitter: https://twitter.com/FlavCreations
     description: "Co-Founder of The Library by Stream Sounds"
