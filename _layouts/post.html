@@ -27,8 +27,10 @@ post_class: post-template
                         {% endif %}
                     </div>
                     <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-                        <span class="post-name">{{ author.display_name }}</span><br />
-                        <span class="author-description">{{ author.description }}</span>
+                      <span class="author-name">{{author.display_name}}: </span>
+                      {% if author.twitter != null %}<span class="author-twitter"><a href="{{author.twitter}}">Twitter</a> | </span>{% endif %}
+                      {% if author.stream != null %}<span class="author-Stream"><a href="{{author.stream}}">Stream</a></span>{% endif %}<br/>
+                      <span class="author-description">{{ author.description }}</span><br/>
                     </div>
                 </div>
                 {% endif %}
