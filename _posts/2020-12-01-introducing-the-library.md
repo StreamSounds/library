@@ -9,7 +9,7 @@ featured: true
 
 Hey folks, OGJunkyard here.
 
-I wanted to take a moment and give you the backstory behind the Library by StreamSounds. I also wanted to tell you why I thought it would help the Twitch community. I ALSO wanted to tell you why I'm doing this, because I think transparency, openness, and honesty are important. So, this will broken into three parts:
+I wanted to take a moment and give you the backstory behind the Library by StreamSounds. I also wanted to tell you why I thought it would help the Twitch community. I ALSO wanted to tell you why I'm doing this, because I think transparency, openness, and honesty are important. So, this will be broken into three parts:
 
 - The Backstory behind the Library by StreamSounds
 - Why this will be helpful to streamers
