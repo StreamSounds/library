@@ -4,7 +4,7 @@ title: "The Library by StreamSounds"
 description: "A collection of tips and advice for streamers by the StreamSounds community."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: ''
+baseurl: 'https://library.streamsounds.tv'
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
