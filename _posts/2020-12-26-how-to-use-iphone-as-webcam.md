@@ -36,7 +36,7 @@ Here's a list of extra features you'll find in the pro version on top of the fea
 The pro version also allows you to put a really, really bad chromakey behind you. Please don't buy the pro version expecting to use this instead of a proper green screen/chromakey. It is not worth it.
 
 ### Who's the app for?
-The EpocCam app is for anyone looking to add a higher-quality webcam to their computer and has an iPhone or iPad. EpocCam easy to use and straightforward to set up. I think it really shines for streamers who are just starting out because this could very well be the best budget webcam for Twitch. It will allow you to have a cheap webcam that is good quality without investing a ton of money into your streaming set up. I often hear about streamers who have invested hundreds or even thousands of dollars into their setup, only to stop streaming entirely just a few months later.
+The EpocCam app is for anyone looking to add a higher-quality webcam to their computer and has an iPhone or iPad. EpocCam is easy to use and straightforward to set up. I think it really shines for streamers who are just starting out because this could very well be the best budget webcam for Twitch. It will allow you to have a cheap webcam that is good quality without investing a ton of money into your streaming set up. I often hear about streamers who have invested hundreds or even thousands of dollars into their setup, only to stop streaming entirely just a few months later.
 
 ### What about Android?
 This article is about EpocCam, which is currently an Apple-device-only app after Elgato acquired the software. I don't have access to a newer Android device to test Android apps that do the same thing as EpocCam, but I am aware of a few apps that you may want to try. I'm going to link to a couple, but be warned that I can't vouch for their quality.
@@ -46,6 +46,8 @@ Here's a few Android apps that I've come across in my search:
 - [iVCam](https://play.google.com/store/apps/details?id=com.e2esoft.ivcam&hl=en_US&gl=US)
 - [DroidCam OBS](https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam)
 - [Iriun Webcam](https://play.google.com/store/apps/details?id=com.jacksoftw.webcam)
+
+(Flav might be able to test some of these out and do a write up on them.)
 
 ### What do I need to use the EpocCam app?
 In order to use the EpocCam app, you'll need at least an iPhone or iPad that can run iOS 13.0 / iPadOS 13.0 or later (at the time this was written). This means the following devices are supported:
