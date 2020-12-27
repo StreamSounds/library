@@ -8,18 +8,6 @@ featured: true
 hidden: false
 comments: false
 ---
-<!--
-layout: page-fullwidth
-title: "What kind of music can I stream?"
-author: FlavCreations
-subheadline: "DMCA Free Music - Article By FlavCreations"
-meta_teaser: "We may all have had this question before, what kind of music can I stream or add to my content without risk of DMCA?"
-teaser: "<em>DMCA</em> can be a risk for streamers, video creators, game developers and others who like to utilize music either as a back track, back ground music for games or for other live or recorded purposes. How can we protect ourselves from <em>DMCA</em>? Why should we protect ourselves from <em>DMCA</em>?"
-categories:
-    - DMCA
-    - Music
--->
----
 
 ## DMCA - What is it?
 
