@@ -47,7 +47,7 @@ Here's a few Android apps that I've come across in my search:
 - [DroidCam OBS](https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam)
 - [Iriun Webcam](https://play.google.com/store/apps/details?id=com.jacksoftw.webcam)
 
-(Flav might be able to test some of these out and do a write up on them.)
+(Flav might be able to test some of these out and do a write up on them at a later date.)
 
 ### What do I need to use the EpocCam app?
 In order to use the EpocCam app, you'll need at least an iPhone or iPad that can run iOS 13.0 / iPadOS 13.0 or later (at the time this was written). This means the following devices are supported:
