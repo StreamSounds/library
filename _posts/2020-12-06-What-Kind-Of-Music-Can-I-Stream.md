@@ -9,6 +9,8 @@ hidden: false
 comments: false
 ---
 
+# DMCA - What is it? Why is it bad? How do we avoid it? Plus DMCA Safe Music!
+
 ## DMCA - What is it?
 
 [<dfn>DMCA</dfn>] is an acronym for the Digital Millennium Copyright Act. It is a U.S. copyright law which addresses the rights and obligations of owners of copyrighted material who believe their rights under the U.S. copyright law have been infringed. Necessary? Maybe. Should we adhere to it? Of course we should! How though? By abiding by copyright law.
