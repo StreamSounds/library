@@ -72,7 +72,7 @@ GEM
     wdm (0.1.1)
 
 PLATFORMS
-  x64-mingw32
+  ruby
 
 DEPENDENCIES
   jekyll-analytics
