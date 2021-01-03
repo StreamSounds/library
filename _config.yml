@@ -47,7 +47,7 @@ plugins:
 jekyll_analytics:
   Plausible:
     domain: 'library.streamsounds.tv'
-    source: 'https://plausible.io/js/plausible.js'
+    source: 'https://library.streamsounds.tv/assets/js/plausible.js'
 
 # Archives
 jekyll-archives:
