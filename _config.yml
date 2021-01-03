@@ -44,7 +44,7 @@ plugins:
   - jekyll-analytics
 
 # Analytics : plugin link for reference: https://github.com/hendrikschneider/jekyll-analytics
-jekyll_analytics:
+jekyll-analytics:
   Plausible:
     domain: 'library.streamsounds.tv'
     source: 'https://plausible.io/js/plausible.js'
