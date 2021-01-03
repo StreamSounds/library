@@ -33,21 +33,12 @@ authors:
     description: "Co-Founder of The Library by Stream Sounds"
 
 # Plugins
-whitelist: [jekyll-analytics]
-
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-  - jekyll-analytics
-
-# Analytics : plugin link for reference: https://github.com/hendrikschneider/jekyll-analytics
-jekyll_analytics:
-  Plausible:
-    domain: 'library.streamsounds.tv'
-    source: 'https://plausible.io/js/plausible.js'
 
 # Archives
 jekyll-archives:
