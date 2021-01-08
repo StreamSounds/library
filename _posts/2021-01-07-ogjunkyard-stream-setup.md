@@ -35,3 +35,4 @@ Logitech C920|Extra camera for stream setup (not pictured)|[Amazon (affiliate li
 Logitech C922|Extra camera for stream setup (not pictured)|[Amazon (affiliate link)](https://amzn.to/2MIXkJg)
 Dracast S Series Lights (DRSP-500D)|Lighting for streamer and green screen|[Amazon (affiliate link)](https://amzn.to/3oq6p7I ) (Closest I could find)
 Neewer C Stand|Acts as camera stand currently because of space constraints|[Amazon (affiliate link)](https://amzn.to/2XiEqej)
+{:.post-table}
