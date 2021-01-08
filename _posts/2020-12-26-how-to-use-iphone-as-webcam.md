@@ -3,7 +3,8 @@ layout: post
 title:  "How to use an iPhone as a webcam (EpocCam Review)"
 author: ogjunkyard
 categories: [ webcam ]
-image: "assets/images/pink-iphone.jpg"
+image-location: "assets/images/"
+image: "pink-iphone.webp"
 featured: true
 ---
 After moving into a new place with my girlfriend and COVID-19 restrictions hit, we both found ourselves needing webcams to use for our day job. As a streamer, I had a couple of Logitech C920s that we ended up dedicating to our day jobs. This meant I no longer had access to those webcams for other OBS scenes like my dog cam.
