@@ -3,7 +3,6 @@ layout: post
 title:  "Introducing the Library by StreamSounds"
 author: ogjunkyard
 categories: [ about us ]
-image-location: "assets/images/"
 image: "sslibbook.webp"
 featured: true
 ---

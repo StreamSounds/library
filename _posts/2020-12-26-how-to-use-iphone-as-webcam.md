@@ -3,7 +3,6 @@ layout: post
 title:  "How to use an iPhone as a webcam (EpocCam Review)"
 author: ogjunkyard
 categories: [ webcam ]
-image-location: "assets/images/"
 image: "pink-iphone.webp"
 featured: true
 ---

@@ -3,7 +3,6 @@ layout: post
 title:  "What kind of music can I stream?"
 author: flavius
 categories: [ Music, DMCA, Audio ]
-image-location: "assets/images/"
 image: "dmcad.webp"
 featured: true
 hidden: false
