@@ -48,6 +48,9 @@ jekyll-archives:
   permalinks:
     category: '/category/:name/'
 
+# Sitemap
+url: "https://library.streamsounds.tv"
+
 # Pagination
 paginate: 6
 paginate_path: /page:num/
