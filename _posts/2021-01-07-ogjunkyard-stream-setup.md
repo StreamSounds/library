@@ -3,7 +3,7 @@ layout: post
 title:  "OGJunkyard's Stream Setup"
 author: ogjunkyard
 categories: [ stream setup ]
-image: "assets/images/"
+image: "assets/images/og-desk.jpg"
 featured: true
 ---
 
