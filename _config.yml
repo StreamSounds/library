@@ -2,8 +2,8 @@
 name: "The Library by StreamSounds"
 title: "The Library by StreamSounds"
 description: "A collection of tips and advice for streamers by the StreamSounds community."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo.webp'
+favicon: 'assets/images/logo.webp'
 image-location: 'assets/images/'
 baseurl: ''
 disqus: ''
@@ -17,7 +17,7 @@ authors:
   ogjunkyard:
     name: OGJunkyard
     display_name: OGJunkyard
-    avatar: 'assets/images/OGFace.jpg'
+    avatar: 'assets/images/OGFace.webp'
     email: ogjunkyard@gmail.com
     stream: https://twitch.tv/OGJunkyard
     web: https://twitch.tv/OGJunkyard
@@ -26,7 +26,7 @@ authors:
   flavius:
     name: Flavius
     display_name: Flavius
-    avatar: 'assets/images/Flavorful_Logo.png'
+    avatar: 'assets/images/Flavorful_Logo.webp'
     email: flaviuscreations@gmail.com
     stream: https://www.twitch.tv/FlavCreations
     web: https://www.twitch.tv/FlavCreations
