@@ -8,6 +8,20 @@
 	display:inline;
 }
 
+.post-table {
+	border-collapse: collapse;
+
+  > table, tr {
+    border: 2px solid black;
+	}
+	> table, td, th {
+    padding: 8px;
+	}
+	> table, tr:nth-child(2n) {
+    background-color: #e2e2e2;
+  }
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",
