@@ -9,7 +9,7 @@ baseurl: ''
 disqus: ''
 mailchimp-list: ''
 include: ["_pages"]
-permalink: /:year/:month/:day/:title/
+permalink: /:title/
 future: false
 
 # Authors
