@@ -19,7 +19,7 @@ Just to give you some context, I've spent OVER $10,000 on my streaming setup ove
 
 [Click here to see my gear.]({% post_url 2021-01-15-ogjunkyard-stream-setup-intro %}#ogjunkyards-streaming-gear)
 
-I may present information and/or topics you haven't heard of before and I'll do my best to link out to resources as well, but if you need to look something up that I may have missed, go right ahead.  If you don't understand what something is or you need more help, please join us in the [StreamSounds Discord Server](https://discord.streamsounds.tv) and ask us questions. We'd LOVE to help you improve!
+I may present information and/or topics you haven't heard of before and I'll do my best to link out to resources as well, but if you need to look something up that I may have missed, go right ahead.  If you don't understand what something is or you need more help, please join us in the [StreamSounds Discord Server]({{ site.streamsounds.discord }}) and ask us questions. We'd LOVE to help you improve!
 
 ### Who is this series for?
 
