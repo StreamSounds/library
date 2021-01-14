@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction to Audio Mixing"
+title:  "Introduction to Mixing Audio"
 author: flavius
 categories: [ audio ]
 image: ""
