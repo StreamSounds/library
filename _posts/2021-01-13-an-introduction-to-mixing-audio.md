@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction to Mixing Audio"
+title:  "Introduction to Mixing Audio - How to not sound like a Dial Up Modem"
 author: flavius
 categories: [ audio ]
 image: ""
@@ -21,7 +21,19 @@ This is where audio mixing software and hardware comes into play. Audio mixing a
 
 ### - Audio Mixing options
 
-Are you interested in having more control over your audio? Lets go over our options then! I'm sure every streamer has heard of a GoXLR, or GoXLR-Mini which come with software mixing alongside hardware controls. There is also the Elgato Wave microphones which come with similar software mixing and some hardware controls. Physical mixers are also available of various sizes and prices that stretch from less than $50 US Dollars to well over $500 to even $1000s. These beastly devices offer physical nobs and sliders for customization and take up a bit more space than a GoXLR but in some cases not by much or at all as some of them can be fairly small. However, their prices range from significantly lower than even a GoXLR-Mini or even cheaper then the Elgato Wave. Then finally, there is Voicemeeter, something either mostly unheard of or often not spoken. What is Voicemeeter? It is a digital mixing software for windows designed to help thread and control audio similar to a physical mixer, except that it is an application ran on windows.
+Are you interested in having more control over your audio? Lets go over our options then!
+
+###### - Mixing in OBS?
+You might say OBS has its own audio mix, that is true. However, just like using windows, it can be complicated. First you have to find audio levels in windows that suite yourself, so you can hear the game and other things. Then you have to pull the audio directly into OBS and try and manage it there. It can be a complete mess because the audio levels are already being adjusted for your hearing first. Optionally, if you adjust for the OBS Mix first, the levels for you hearing the audio will also be affected, too high, too low, and when you adjust it will then adjust the levels in OBS. Big wonky mess right? 
+
+###### - GoXLR, GoXLR-Mini, Elgato Wave
+ I'm sure every streamer has heard of a GoXLR, or GoXLR-Mini which come with software mixing alongside hardware controls. There is also the Elgato Wave microphones which come with similar software mixing and some hardware controls.
+
+###### - Physical Mixers
+Physical mixers are also available of various sizes and prices that stretch from less than $50 US Dollars to well over $500 to even $1000s. These beastly devices offer physical nobs and sliders for customization and take up a bit more space than a GoXLR but in some cases not by much or at all as some of them can be fairly small. However, their prices range from significantly lower than even a GoXLR-Mini or even cheaper then the Elgato Wave.
+
+###### - Voicemeeter
+Finally, there is Voicemeeter, something either mostly unheard of or often not spoken. Voicemeeter is a digital mixing software for windows designed to help thread and control audio similar to a physical mixer, except that it is an application ran on windows.
 
 Voicemeeter Banana []
 
