@@ -3,7 +3,7 @@ layout: post
 title:  "Introduction to Mixing Audio - How to not sound like a Dial Up Modem"
 author: flavius
 categories: [ audio ]
-image: ""
+image: "mixer.webp"
 featured: false
 ---
 What is audio mixing? Is it helpful or a hindrance? What are my options for mixing audio?
@@ -24,7 +24,7 @@ This is where audio mixing software and hardware comes into play. Audio mixing a
 Are you interested in having more control over your audio? Lets go over our options then!
 
 ###### - Mixing in OBS?
-You might say OBS has its own audio mix, that is true. However, just like using windows, it can be complicated. First you have to find audio levels in windows that suite yourself, so you can hear the game and other things. Then you have to pull the audio directly into OBS and try and manage it there. It can be a complete mess because the audio levels are already being adjusted for your hearing first. Optionally, if you adjust for the OBS Mix first, the levels for you hearing the audio will also be affected, too high, too low, and when you adjust it will then adjust the levels in OBS. Big wonky mess right? 
+You might say OBS has its own audio mix, that is true. However, just like using windows, it can be complicated. First you have to find audio levels in windows that suite yourself, so you can hear the game and other things. Then you have to pull the audio directly into OBS and try and manage it there. It can be a complete mess because the audio levels are already being adjusted for your hearing first. Optionally, if you adjust for the OBS Mix first, the levels for you hearing the audio will also be affected, too high, too low, and when you adjust it will then adjust the levels in OBS. Big wonky mess right?
 
 ###### - GoXLR, GoXLR-Mini, Elgato Wave
  I'm sure every streamer has heard of a GoXLR, or GoXLR-Mini which come with software mixing alongside hardware controls. There is also the Elgato Wave microphones which come with similar software mixing and some hardware controls.
@@ -35,12 +35,8 @@ Physical mixers are also available of various sizes and prices that stretch from
 ###### - Voicemeeter
 Finally, there is Voicemeeter, something either mostly unheard of or often not spoken. Voicemeeter is a digital mixing software for windows designed to help thread and control audio similar to a physical mixer, except that it is an application ran on windows.
 
-Voicemeeter Banana []
+Voicemeeter Banana Article: [Voicemeeter Banana](https://www.library.streamsounds.tv/voicemeeter-banana)
 
-Physical Mixer []
-
-GoXLR []
-
-Elgato Wave []
+Coming Later: Physical Mixer, GoXLR/GoXLR-Mini, Elgato Wave.
 
 (Maybe we can have pictures to the four things just above and when we make articles specifically for them (if we do) we can add article links directly to the articles for those.)
