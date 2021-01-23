@@ -9,7 +9,7 @@ featured: false
 
 ## What is Voicemeeter Banana
 
-Voicemeter Ba na na, na na na na, sing with me! Unless you are streaming or making a youtube video as that could result in a DMCA! Joke aside, Voicemeeter Banana, what is it? Voicemeeter Banana is the second iteration of Voicemeeter, an audio mixing software that allows advanced audio mixing, which is also provided free. You can download voicemeeter by visiting their website [here](http://voicemeeter.com/). 
+Voicemeter Ba na na, na na na na, sing with me! Unless you are streaming or making a youtube video as that could result in a DMCA! Joke aside, Voicemeeter Banana, what is it? Voicemeeter Banana is the second iteration of Voicemeeter, an audio mixing software that allows advanced audio mixing, which is also provided free. You can download voicemeeter by visiting their website [here](http://voicemeeter.com/).
 
 Voicemeeter Banana comes with three Hardware Inputs, two software o digital inputs, and three hardware outputs. For reference, Hardwar inputs are typically hardware devices pushing audio into the computer, such as microphones, line inputs, and other things like that. The software or digital input is a driver on the system that allows audio to be pushed to it, they help with threading audio around. Hardware outputs are your headphones, speakers and can also be a digital audio driver.
 
@@ -54,7 +54,7 @@ Voicemeeter Digital Inputs:
 
 ![https://i.imgur.com/pkMT14v.png](https://i.imgur.com/pkMT14v.png)
 
-To set our windows default audio to push through these digital inputs we need to open Windows Sound Settings by right clicking on the speaker icon that adjusts our audio in the task bar. After right clicking select 'Open Sound Settings' and you should see a window with
+To set our Windows Default Audio to push through these digital inputs we need to open Windows Sound Settings by right clicking on the speaker icon that adjusts our audio in the task bar. After right clicking select 'Open Sound Settings' and you should see a window with
 
 Sound-
 Choose your output device:
@@ -97,7 +97,7 @@ You might ask, what about alerts? I'm going to wager your alerts are being pulle
 
 ![https://i.imgur.com/CrZdTZU.png](https://i.imgur.com/CrZdTZU.png)
 
-You will notice a cog options menu icon beside the specific Audio source in the Audio Mixer. Click this and you will see a menu and something that reads Advanced Audio Properties which open sa window like this:
+You will notice a cog options menu icon beside the specific Audio source in the Audio Mixer. Click this and you will see a menu and something that reads Advanced Audio Properties which opens a window like this:
 
 ![https://i.imgur.com/cUmLUPo.png](https://i.imgur.com/cUmLUPo.png)
 
@@ -109,4 +109,4 @@ Then go into Settings→Audio→Advanced section→Monitoring Device: Set this t
 
 Now go to your Voicemeeter Banana application and test some Alerts. You should see the Voicemeeter AUX audio bouncing around. Since we are pulling the audio into OBS via Browser Source and both Outputting and Monitoring. All we need is to push this audio to our headphones so we can hear when things happen. So select whichever A# is your headphones and test again to make sure you can hear it.
 
-I believe this should cover everything. If you have any questions about audio, audio mixing, microphones, obs, streaming, and other things, the Library by Stream Sounds has a discord! We would love to have a chat about things and look forward to learning, teaching and assisting in many different things. Not just audio! Just like a library is full of random knowledge collected, we wish to grow our own knowledge and share it with others! So please come join us in the sharing: (discord link)
+I believe this should cover everything to get started with Voicemeeter Banana. However, if you have any trouble please join the [Library Discord](https://discord.streamsounds.tv/) to get the help you need with setting up Voicemeeter or if you have any questions about audio, audio mixing, microphones, OBS, streaming, and other things. We would love to have a chat about things and look forward to learning, teaching and assisting in many different things. Not just audio! Just like a library is full of random knowledge collected, we wish to grow our own knowledge and share it with others. So please come join us in the sharing.
