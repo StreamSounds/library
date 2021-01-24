@@ -9,7 +9,9 @@ featured: false
 
 ## What is Voicemeeter Banana
 
-Voicemeter Ba na na, na na na na, sing with me! Unless you are streaming or making a youtube video as that could result in a DMCA! Joke aside, Voicemeeter Banana, what is it? Voicemeeter Banana is the second iteration of Voicemeeter, an audio mixing software that allows advanced audio mixing, which is also provided free. You can download voicemeeter by visiting their website [here](http://voicemeeter.com/).
+Voicemeter Ba na na, na na na na, sing with me! Unless you are streaming or making a youtube video as that could result in a DMCA! Joke aside, Voicemeeter Banana, what is it? Voicemeeter Banana is the second iteration of Voicemeeter, an audio mixing software that allows advanced audio mixing, which is also provided free. You can download voicemeeter by visiting their website.
+
+- [here](http://voicemeeter.com/).
 
 Voicemeeter Banana comes with three Hardware Inputs, two software o digital inputs, and three hardware outputs. For reference, Hardwar inputs are typically hardware devices pushing audio into the computer, such as microphones, line inputs, and other things like that. The software or digital input is a driver on the system that allows audio to be pushed to it, they help with threading audio around. Hardware outputs are your headphones, speakers and can also be a digital audio driver.
 
