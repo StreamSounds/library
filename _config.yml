@@ -50,7 +50,7 @@ jekyll-archives:
     category: '/category/:name/'
 
 # Sitemap
-url: "https://library.streamsounds.tv"
+#url: "https://library.streamsounds.tv"
 
 # Pagination
 paginate: 6
