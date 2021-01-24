@@ -35,7 +35,7 @@ Physical mixers are also available of various sizes and prices that stretch from
 ###### - Voicemeeter
 Finally, there is Voicemeeter, something either mostly unheard of or often not spoken. Voicemeeter is a digital mixing software for windows designed to help thread and control audio similar to a physical mixer, except that it is an application ran on windows.
 
-Voicemeeter Banana Article: [Voicemeeter Banana](https://www.library.streamsounds.tv/voicemeeter-banana)
+Voicemeeter Banana Article: [Voicemeeter Banana](https://www.library.streamsounds.tv{% post_url 2021-01-14-voicemeeter-banana %})
 
 Coming Later: Physical Mixer, GoXLR/GoXLR-Mini, Elgato Wave.
 
