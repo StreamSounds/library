@@ -28,7 +28,7 @@ Location of Virtual Audio Cable in Voicemeeter after installation:
 Please open Voicemeeter Banana.
 
 ### Saving Settings, Loading Settings, Resetting settings
-Something that typically gets skipped in other Voicemeeter coverage that I've seen is the ability to save settings. At any point you can save your current settings of Voicemeeter by going to Menu→Save Settings. This saves a settings file on your computer you can then load up from just a file even on other devices should you want to transfer your settings to another device. If at any point you feel lost and want to restart the setup, you can go to Menu→ Reset Settings (Re-Initialization) and this will make Voicemeeter appear as if you had just installed it, blank with nothing set up.
+Something that typically gets skipped in other Voicemeeter coverage that I've seen is the ability to save settings. At any point you can save your current settings of Voicemeeter by going to Menu→Save Settings. This saves a settings file on your computer you can then Menu->Load to load any saved settings from just a file even on other devices should you want to transfer your settings to another device. If at any point you feel lost and want to restart the setup, you can go to Menu→ Reset Settings (Re-Initialization) and this will make Voicemeeter appear as if you had just installed it, blank with nothing set up.
 
 ![Image for showing where the menu and save/load/reset settings are](\assets\images\voicemeeter\vm_save_load_reset_settings.webp)
 
