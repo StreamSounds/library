@@ -17,7 +17,7 @@ Voicemeeter Banana comes with three hardware inputs, two software digital inputs
 
 ## Installing Voicemeeter Banana
 
-I think the best way to explain Voicemeeter Banana is to set it up and explain along the way. This gives us a more hands on approach which we can test actively. I will cover setting up Voicemeeter in this way: Hardware Outputs, Digital Inputs, then Hardware Inputs. My reason for this is it is hard to test if we have any of the inputs set up if we don't have proper outputs set up. So please install Voicemeeter Banana and the free Virtual Audio Cable that comes with it, you may be required to restart your computer.
+I think the best way to explain Voicemeeter Banana is to set it up and explain along the way. This gives us a more hands on approach which we can test actively. I will cover setting up Voicemeeter in this way: Hardware Outputs, Digital Inputs, then Hardware Inputs. My reason for this is it is hard to test if we have any of the inputs set up but don't have proper outputs set up. So please install Voicemeeter Banana and the free Virtual Audio Cable that comes with it, you may be required to restart your computer.
 
 Location of Virtual Audio Cable in Voicemeeter after installation:
 'C:\Program Files (x86)\VB\Voicemeeter'
