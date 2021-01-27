@@ -13,7 +13,7 @@ Voicemeter Ba na na, na na na na, sing with me! Unless you are streaming or maki
 
 - [Voicemeeter Website for downloads](https://voicemeeter.com/).
 
-Voicemeeter Banana comes with three Hardware Inputs, two software o digital inputs, and three hardware outputs. For reference, Hardwar inputs are typically hardware devices pushing audio into the computer, such as microphones, line inputs, and other things like that. The software or digital input is a driver on the system that allows audio to be pushed to it, they help with threading audio around. Hardware outputs are your headphones, speakers and can also be a digital audio driver.
+Voicemeeter Banana comes with three hardware inputs, two software digital inputs, and three hardware outputs. For reference, hardware inputs are typically hardware devices pushing audio into the computer, such as microphones, line inputs, and other things like that. The software or digital input is a driver on the system that allows audio to be pushed to it, they help with threading audio around. Hardware outputs are your headphones, speakers and can also be a digital audio driver.
 
 ## Installing Voicemeeter Banana
 
