@@ -10,7 +10,7 @@ What is audio mixing? Is it helpful or a hindrance? What are my options for mixi
 
 ### - Introduction
 
-Audio mixing, what is it? Audio Mixing is where you take multiple input sources of audio and put them into one or two different output signals. An example of input sources would be a microphone, game audio, stream alert audio. An example of an output signal would be the signal sent to our headphones, speakers, or stream. Can you achieve audio mixing for streams and videos without a digital or physical audio mixer? Mostly, but in practice it is significantly more complicated to route audio properly without using some form of audio mixing software or hardware when dealing with multiple sources.
+Audio mixing, what is it? Audio mixing is where you take multiple input sources of audio and put them into one or two different output signals. An example of input sources would be a microphone, game audio, stream alert audio. An example of an output signal would be the signal sent to our headphones, speakers, or stream. Can you achieve audio mixing for streams and videos without a digital or physical audio mixer? Mostly, but in practice it is significantly more complicated to route audio properly without using some form of audio mixing software or hardware when dealing with multiple sources.
 
 ### - Goals of Audio Mixing
 
