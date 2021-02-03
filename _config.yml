@@ -15,6 +15,7 @@ future: false
 streamsounds:
   discord: https://discord.streamsounds.tv
   instagram: https://www.instagram.com/streamsoundstv
+  twitch: https://twitch.tv/streamsoundstv
   twitter: https://www.twitter.com/streamsoundstv
   youtube: https://www.youtube.com/channel/UC3rEHGEUyd3kVuPyWoXi1SQ
 
@@ -76,3 +77,6 @@ kramdown:
 lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+mermaid:
+  src: 'assets/js/mermaid-8.9.0.min.js'
