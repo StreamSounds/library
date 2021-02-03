@@ -25,23 +25,25 @@ Maybe you've made some basic upgrades already, but you aren't quite sure what yo
 
 From a PC-building aspect, I've built more than a dozen PCs for a variety of use cases, everything from home/gaming PCs to servers that were the backbone for the way major companies shipped software to their employees and end users.
 
-From an audio and video perspective, I've taken multiple courses and a workshop around film production and produced my own short film, as well as helped on a half-dozen other short-film and indie films. I've read multiple books on audio, photography, and film, so I've got a decent head for the theory that underpins video and audio. 
+From an audio and video perspective, I've taken multiple courses and a workshop around film production and produced my own short film, as well as helped on a half-dozen other short-film and indie films. I've read multiple books on audio, photography, and film, so I've got a decent head for the theory that underpins video and audio.
 
-I've also spent OVER $10,000 on my streaming setup over the course of 7 years. Some of these choices have been great, others could have been money better spent (or not spent at all). There's been a lot of lessons learned, such as what was actually valuable to spend money on, and at th
+I've also spent OVER $10,000 on my streaming setup over the course of 7 years. Some of these choices have been great, others could have been money better spent (or not spent at all). There's been a lot of lessons learned along the way, which I hope to share with you so you can make better choices than I have along the way and avoid the absolute duds.
 
 Even though my setup cost over $10,000, I'll never ask you to spend that on your setup. In fact, I don't want you to spend that until you decide that each and every one of those items are worth it and makes sense for YOUR content. I'd much rather you to pick the right upgrades at the right times and your community help you get these upgrades. In fact, upgrades can make great donation goals for your community to chip into, by the way.
 
-### What else should I expect
+### What else should you expect
 
 In this series, I'll also give you a breakdown on what I'd recommend you upgrade in what order. I'll also have some recommendations at various price points for the big ticket items (Camera, Microphone, etc.) so you can spend your money smarter when it's right for you. At the very bottom, I have a table of all of my gear and links on where to find it.
 
 [Click here to see my gear.]({% post_url 2021-01-15-ogjunkyard-stream-setup-intro %}#ogjunkyards-streaming-gear)
 
-I may present information and/or topics you haven't heard of before and I'll do my best to link out to resources as well, but if you need to look something up that I may have missed, go right ahead.  If you don't understand what something is or you need more help, please join us in the [StreamSounds Discord Server]({{ site.streamsounds.discord }}) and ask us questions. We'd LOVE to help you improve!
+I may present information and/or topics you haven't heard of before and I'll do my best to explain the stuff that I feel like most people wouldn't readily understand. I'll also link out to other resources as well, but if you need to look something up that I may have missed, go right ahead. If there's something that you think we should include in the articles or write about in general, please let us know. If you don't understand what something is or you need more help, please join us in the StreamSounds Discord Server and ask us questions. We'd LOVE to help you improve!
+
+[Click here to join the StreamSounds Discord Server.]({{ site.streamsounds.discord }})
 
 ### A cautionary note
 
-Upgrades will not magically make your stream 10x better and get you 10x as many subs as you were before. Your growth should drive your stream upgrades, not the other way around. Think of stream upgrades as the reward your community gets on your journey of growth. It is validation that you are delivering great content and makes the stream a better entertainment experience for your community, NOT YOU. It's nice having a great looking and sounding stream, but if no one's watching, was the money worth it?
+Upgrades will not magically make your stream 10x better and get you 10x as many subs as you had before. Your natural stream growth should drive your stream upgrades, not the other way around. Think of stream upgrades as the reward your community gets on your journey of growth. It is validation that you are delivering great content and makes the stream a better entertainment experience for your community, NOT YOU. It's nice having a great looking and sounding stream, but if no one's watching, was the money worth it?
 
 ### The Posts in this Series
 
@@ -54,6 +56,8 @@ Finally, here's the content to expect:
 1. OGJunkyard's Stream Setup - Part 5: Conclusion
 
 At the end of each post, there will be a table of all of my streaming gear, down to the specific cables and adapters I've used. I want you to use this content not as a template of what to buy and where to get it, but rather as an idea of what a high quality streaming setup could look like and what thought went into it. You will probably make different decisions than I did, and that can be a great thing. You might find something that fits your situation better than what's listed in this series of posts.
+
+I hope you are excited to dig into my streaming setup as much as I am, and I'll see you in the next article.
 
 ### OGJunkyard's Streaming Gear
 
