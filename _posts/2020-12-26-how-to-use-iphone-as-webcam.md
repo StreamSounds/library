@@ -10,6 +10,8 @@ After moving into a new place with my girlfriend and COVID-19 restrictions hit, 
 
 After looking at what another C920 webcam would cost (at the time $150+ when they are normally $60-$70), I started looking around for other options that didn't cost so much. Research led me to an iOS app called EpocCam by Elgato. I dug into EpocCam, and I came away quite impressed.
 
+Before we get into the post, I just wanted to say that if you need any help getting EpocCam setup or you have any questions about it, go ahead and ask us questions in the [StreamSounds Discord Server](https://discord.streamsounds.tv). We'd LOVE to help you improve your setup!
+
 ### What is Elgato EpocCam?
 Elgato EpocCam is an app for iPhones and iPads that allows you to use the device as a webcam on your computer (both PC and MacOS). There are two versions of the EpocCam app (EpocCam and and EpocCam Pro) in the App Store. The basic EpocCam app will allow you to try out the main features of the app before you pay for the EpocCam Pro app. The pro version of the app is what you'd want to actually use if you decided to actually incorporate this into your setup.
 
@@ -115,3 +117,5 @@ You'll need to figure out a mounting solution for your device, while most webcam
 ### Conclusion
 
 EpocCam is a great, cheap addition to just about any streamer's setup, as long as they have an Apple device. It's a cheap alternative to buying a much more expensive webcam that may or may not be as good of quality as what you'd find in your device. If I had just upgraded to a newer device and had a different Apple device lying around, I'd give this app a try.
+
+As I mentioned earlier, if you have any questions about getting EpocCam setup or deciding if it's right for your stream setup, go ahead and pop in the [StreamSounds Discord Server](https://discord.streamsounds.tv). We're there to help out and discuss ideas with to make your stream the best it can possibly be!
