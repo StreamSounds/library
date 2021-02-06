@@ -12,13 +12,12 @@ include: ["_pages"]
 permalink: /:title/
 future: false
 
-# Common Links
 streamsounds:
   discord: https://discord.streamsounds.tv
-  instagram: https://instagram.com/streamsoundstv
+  instagram: https://www.instagram.com/streamsoundstv
   twitch: https://twitch.tv/streamsoundstv
-  twitter: https://twitter.com/streamsoundstv
-  youtube: https://www.youtube.com/channel/UC3rEHGEUyd3kVuPyWoXi1SQ/
+  twitter: https://www.twitter.com/streamsoundstv
+  youtube: https://www.youtube.com/channel/UC3rEHGEUyd3kVuPyWoXi1SQ
 
 # Authors
 authors:
