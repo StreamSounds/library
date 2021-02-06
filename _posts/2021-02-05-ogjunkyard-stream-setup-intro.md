@@ -13,7 +13,7 @@ Hey folks, it's OGJunkyard. When I'm watching streams, I ALWAYS wonder how they 
 
 In this five-part post series, I'm going to talk about what makes a stream great from a technical aspect. I'm also going to break down my streaming setup in *excruciating* detail. I'll talk about why I've made just about every single decision I've made about practically every piece of gear I own because A LOT of thought has gone into this setup. I'm going to talk about the thought behind all of the choices, but it all comes down to being fanatical about the viewer's experience.
 
-[If you just want to see my gear list, click here.]({% post_url 2021-01-15-ogjunkyard-stream-setup-intro %}#ogjunkyards-streaming-gear)
+[If you just want to see my gear list, click here.]({% post_url 2021-02-05-ogjunkyard-stream-setup-intro %}#ogjunkyards-streaming-gear)
 
 ### Who is this series for?
 
@@ -35,7 +35,7 @@ Even though my setup cost over $10,000, I'll never ask you to spend that on your
 
 In this series, I'll also give you a breakdown on what I'd recommend you upgrade in what order. I'll also have some recommendations at various price points for the big ticket items (Camera, Microphone, etc.) so you can spend your money smarter when it's right for you. At the very bottom, I have a table of all of my gear and links on where to find it.
 
-[Click here to see my gear.]({% post_url 2021-01-15-ogjunkyard-stream-setup-intro %}#ogjunkyards-streaming-gear)
+[Click here to see my gear.]({% post_url 2021-02-05-ogjunkyard-stream-setup-intro %}#ogjunkyards-streaming-gear)
 
 I may present information and/or topics you haven't heard of before and I'll do my best to explain the stuff that I feel like most people wouldn't readily understand. I'll also link out to other resources as well, but if you need to look something up that I may have missed, go right ahead. If there's something that you think we should include in the articles or write about in general, please let us know. If you don't understand what something is or you need more help, please join us in the StreamSounds Discord Server and ask us questions. We'd LOVE to help you improve!
 
