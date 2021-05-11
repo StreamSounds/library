@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Library by StreamSounds</title>
+    <description>A collection of tips and advice for streamers by the StreamSounds community.</description>
+    <link>https://library.streamsounds.tv/</link>
+    <atom:link href="https://library.streamsounds.tv/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 11 May 2021 00:40:55 +0000</pubDate>
+    <lastBuildDate>Tue, 11 May 2021 00:40:55 +0000</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>OGJunkyard's Stream Setup - Part 1: Intro</title>
+        <description>&lt;p&gt;Have you ever wondered what a streamer’s setup looks like? What microphone did they buy? What camera do they use? Why is it ALL so clean?&lt;/p&gt;
+
+&lt;p&gt;Hey folks, it’s OGJunkyard. When I’m watching streams, I ALWAYS wonder how they got it to look the way they did. As streamers, we scrutinize EVERY detail of our streams, and we are always looking for ways that we can raise our production value in hopes that it will help us score that extra follow, subscriber, or headshot. Sometimes, it comes down to the way we lay out our streaming software, such as OBS, and other times it comes down to doing clever tricks and promoting ourselves well. But, one of the most important things before we get to any of that stuff is having the best gear we can and use it well.&lt;/p&gt;
+
+&lt;p&gt;In this five-part post series, I’m going to talk about what makes a stream great from a technical aspect. I’m also going to break down my streaming setup in &lt;em&gt;excruciating&lt;/em&gt; detail. I’ll talk about why I’ve made just about every single decision I’ve made about practically every piece of gear I own because A LOT of thought has gone into this setup. I’m going to talk about the thought behind all of the choices, but it all comes down to being fanatical about the viewer’s experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/ogjunkyard-stream-setup-intro/#ogjunkyards-streaming-gear&quot;&gt;If you just want to see my gear list, click here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;who-is-this-series-for&quot;&gt;Who is this series for?&lt;/h3&gt;
+
+&lt;p&gt;The information is for streamers who know they are going to be streaming for the long haul. You know you are at this point when you’ve been streaming for at least 3-6 months on a consistent schedule. You are probably streaming 3 or more days per week. You probably have 10+ average viewers. You don’t cancel streams without a good reason and you do your best to be on time for every stream. You take it seriously, and for you, this is becoming more than a hobby and something you may want to eventually do as a job/career.&lt;/p&gt;
+
+&lt;p&gt;Maybe you’ve made some basic upgrades already, but you aren’t quite sure what your next purchases should be. You know you definitely want your stream to look nicer than LOLTyler1’s stream but definitely can’t drop the big bucks on a S-Tier setup like Ninja.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-you-should-trust-me&quot;&gt;Why you should trust me&lt;/h3&gt;
+
+&lt;p&gt;From a PC-building aspect, I’ve built more than a dozen PCs for a variety of use cases, everything from home/gaming PCs to servers that were the backbone for the way major companies shipped software to their employees and end users.&lt;/p&gt;
+
+&lt;p&gt;From an audio and video perspective, I’ve taken multiple courses and a workshop around film production and produced my own short film, as well as helped on a half-dozen other short-film and indie films. I’ve read multiple books on audio, photography, and film, so I’ve got a decent head for the theory that underpins video and audio.&lt;/p&gt;
+
+&lt;p&gt;I’ve also spent OVER $10,000 on my streaming setup over the course of 7 years. Some of these choices have been great, others could have been money better spent (or not spent at all). There’s been a lot of lessons learned along the way, which I hope to share with you so you can make better choices than I have along the way and avoid the absolute duds.&lt;/p&gt;
+
+&lt;p&gt;Even though my setup cost over $10,000, I’ll never ask you to spend that on your setup. In fact, I don’t want you to spend that until you decide that each and every one of those items are worth it and makes sense for YOUR content. I’d much rather you to pick the right upgrades at the right times and your community help you get these upgrades. In fact, upgrades can make great donation goals for your community to chip into, by the way.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-else-should-you-expect&quot;&gt;What else should you expect&lt;/h3&gt;
+
+&lt;p&gt;In this series, I’ll also give you a breakdown on what I’d recommend you upgrade in what order. I’ll also have some recommendations at various price points for the big ticket items (Camera, Microphone, etc.) so you can spend your money smarter when it’s right for you. At the very bottom, I have a table of all of my gear and links on where to find it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/ogjunkyard-stream-setup-intro/#ogjunkyards-streaming-gear&quot;&gt;Click here to see my gear.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I may present information and/or topics you haven’t heard of before and I’ll do my best to explain the stuff that I feel like most people wouldn’t readily understand. I’ll also link out to other resources as well, but if you need to look something up that I may have missed, go right ahead. If there’s something that you think we should include in the articles or write about in general, please let us know. If you don’t understand what something is or you need more help, please join us in the StreamSounds Discord Server and ask us questions. We’d LOVE to help you improve!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://discord.streamsounds.tv&quot;&gt;Click here to join the StreamSounds Discord Server.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;a-cautionary-note&quot;&gt;A cautionary note&lt;/h3&gt;
+
+&lt;p&gt;Upgrades will not magically make your stream 10x better and get you 10x as many subs as you had before. Your natural stream growth should drive your stream upgrades, not the other way around. Think of stream upgrades as the reward your community gets on your journey of growth. It is validation that you are delivering great content and makes the stream a better entertainment experience for your community, NOT YOU. It’s nice having a great looking and sounding stream, but if no one’s watching, was the money worth it?&lt;/p&gt;
+
+&lt;h3 id=&quot;the-posts-in-this-series&quot;&gt;The Posts in this Series&lt;/h3&gt;
+
+&lt;p&gt;Finally, here’s the content to expect:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;OGJunkyard’s Stream Setup - Part 1: Introduction (This Post)&lt;/li&gt;
+  &lt;li&gt;OGJunkyard’s Stream Setup - Part 2: Streaming PC&lt;/li&gt;
+  &lt;li&gt;OGJunkyard’s Stream Setup - Part 3: Audio&lt;/li&gt;
+  &lt;li&gt;OGJunkyard’s Stream Setup - Part 4: Video&lt;/li&gt;
+  &lt;li&gt;OGJunkyard’s Stream Setup - Part 5: Conclusion&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;At the end of each post, there will be a table of all of my streaming gear, down to the specific cables and adapters I’ve used. I want you to use this content not as a template of what to buy and where to get it, but rather as an idea of what a high quality streaming setup could look like and what thought went into it. You will probably make different decisions than I did, and that can be a great thing. You might find something that fits your situation better than what’s listed in this series of posts.&lt;/p&gt;
+
+&lt;p&gt;I hope you are excited to dig into my streaming setup as much as I am, and I’ll see you in the next article.&lt;/p&gt;
+
+&lt;h3 id=&quot;ogjunkyards-streaming-gear&quot;&gt;OGJunkyard’s Streaming Gear&lt;/h3&gt;
+
+&lt;table class=&quot;post-table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Category&lt;/th&gt;
+      &lt;th&gt;Item&lt;/th&gt;
+      &lt;th&gt;Description/Purpose&lt;/th&gt;
+      &lt;th&gt;Link&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+  &lt;td&gt;Streaming PC&lt;/td&gt;
+  &lt;td&gt;AMD Ryzen 9 3950x&lt;/td&gt;
+  &lt;td&gt;CPU (AKA Processor)&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/3nqjyMP&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Streaming PC&lt;/td&gt;
+  &lt;td&gt;G.SKILL Ripjaws V Series RAM (32GB, 4 x 8GB)&lt;/td&gt;
+  &lt;td&gt;RAM&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/3oCEDoN&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Streaming PC&lt;/td&gt;
+  &lt;td&gt;Magewell Pro Capture Quad HDMI Capture Card&lt;/td&gt;
+  &lt;td&gt;Capture card for video feeds&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/3pVXV8L&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Streaming PC&lt;/td&gt;
+  &lt;td&gt;ASUS Essence STX II Sound Card&lt;/td&gt;
+  &lt;td&gt;Sound card for both sending and receiving audio&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/38ozr27&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Streaming PC&lt;/td&gt;
+  &lt;td&gt;Elgato Stream Deck XL&lt;/td&gt;
+  &lt;td&gt;Hotkeys and switching scenes&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/2XifvYc&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Streaming PC&lt;/td&gt;
+  &lt;td&gt;Logitech G600&lt;/td&gt;
+  &lt;td&gt;Mouse&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/2L9TUP6&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Streaming PC&lt;/td&gt;
+  &lt;td&gt;Ergodox-EZ&lt;/td&gt;
+  &lt;td&gt;Keyboard&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://ergodox-ez.com/&quot;&gt;Ergodox-EZ Website&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Streaming PC&lt;/td&gt;
+  &lt;td&gt;Herman Miller Aeron Office Chair&lt;/td&gt;
+  &lt;td&gt;Incredible chair that I’ve used for years&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/&quot;&gt;Herman Miller Website&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+    &lt;tr&gt;
+  &lt;td&gt;Audio&lt;/td&gt;
+  &lt;td&gt;Heil PR40&lt;/td&gt;
+  &lt;td&gt;Microphone&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/38lM91C&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Audio&lt;/td&gt;
+  &lt;td&gt;Mackie 1402VLZ4&lt;/td&gt;
+  &lt;td&gt;Audio Mixer handling all audio&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/2MMYfIN&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Audio&lt;/td&gt;
+  &lt;td&gt;Cloudlifter CL-1&lt;/td&gt;
+  &lt;td&gt;Gain booster for Dynamic Microphones&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/395shPn&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Audio&lt;/td&gt;
+  &lt;td&gt;Beyerdynamic Amiron&lt;/td&gt;
+  &lt;td&gt;Nice headphones to make sure everything sounds juuussssssstttt right&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/3hRpP32&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Audio&lt;/td&gt;
+  &lt;td&gt;Roland VT-4&lt;/td&gt;
+  &lt;td&gt;Audio signal modulator to add vocal effects&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/3pZPTM5&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Audio&lt;/td&gt;
+  &lt;td&gt;Behringer HD400 Hum Destroyer&lt;/td&gt;
+  &lt;td&gt;Isolator that sits between the Mackie Mixer and the Behringer Multicom Pro XL and eliminates audio hum/noise&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/3s4zfN5&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Audio&lt;/td&gt;
+  &lt;td&gt;Behringer Multicom Pro XL&lt;/td&gt;
+  &lt;td&gt;Compressor, Limiter, and Gate for Microphone&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/39a83Ea&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Audio&lt;/td&gt;
+  &lt;td&gt;PROZOR 192k Digital to Analog Audio Converter&lt;/td&gt;
+  &lt;td&gt;Converts the digital audio signal extracted from HDMI into analog audio to send into the mixer&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/35kM2S1&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Audio&lt;/td&gt;
+  &lt;td&gt;Mogami XLR Cables&lt;/td&gt;
+  &lt;td&gt;Cables for the Microphone&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/3sctkG3&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+    &lt;tr&gt;
+  &lt;td&gt;Video&lt;/td&gt;
+  &lt;td&gt;Blackmagic Design Pocket Cinema Camera 4K&lt;/td&gt;
+  &lt;td&gt;Camera that’s overkill for streaming, but great to use&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/3s6e2SU&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Video&lt;/td&gt;
+  &lt;td&gt;Rokinon 24mm T1.5 Micro Four-Thirds Lens&lt;/td&gt;
+  &lt;td&gt;Solid lens for the Camera&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/2MFFabb&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Video&lt;/td&gt;
+  &lt;td&gt;Elgato Green Screen&lt;/td&gt;
+  &lt;td&gt;Green screen to remove my background&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/3qa5g4x&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Video&lt;/td&gt;
+  &lt;td&gt;Zettaguard 4K 60Hz 4x1 HDMI Switch&lt;/td&gt;
+  &lt;td&gt;Takes in multiple HDMI signals and provides an easy way to switch between them&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/2XkPKXd&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Video&lt;/td&gt;
+  &lt;td&gt;SIIG 4K HDR HDMI Splitter with Audio Extraction&lt;/td&gt;
+  &lt;td&gt;Duplicates one HDMI signal into two signals and also extracts the audio from the HDMI signal as well&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/3hUZ5yg&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Video&lt;/td&gt;
+  &lt;td&gt;Logitech C920&lt;/td&gt;
+  &lt;td&gt;Extra camera for stream setup (not pictured)&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/3pX7l3O&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Video&lt;/td&gt;
+  &lt;td&gt;Logitech C922&lt;/td&gt;
+  &lt;td&gt;Extra camera for stream setup (not pictured)&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/2MIXkJg&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Video&lt;/td&gt;
+  &lt;td&gt;Dracast S Series Lights (DRSP-500D)&lt;/td&gt;
+  &lt;td&gt;Lighting for streamer and green screen&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/3oq6p7I&quot;&gt;Amazon (affiliate link)&lt;/a&gt; (Closest I could find)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+  &lt;td&gt;Video&lt;/td&gt;
+  &lt;td&gt;Neewer C Stand&lt;/td&gt;
+  &lt;td&gt;Acts as camera stand currently because of space constraints&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;https://amzn.to/2XiEqej&quot;&gt;Amazon (affiliate link)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+        <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+        <link>https://library.streamsounds.tv/ogjunkyard-stream-setup-intro/</link>
+        <guid isPermaLink="true">https://library.streamsounds.tv/ogjunkyard-stream-setup-intro/</guid>
+        
+        
+        <category>stream setup</category>
+        
+      </item>
+    
+      <item>
+        <title>Introduction to Voicemeeter with a Banana</title>
+        <description>&lt;h2 id=&quot;what-is-voicemeeter-banana&quot;&gt;What is Voicemeeter Banana&lt;/h2&gt;
+
+&lt;p&gt;Voicemeter Ba na na, na na na na, sing with me! Unless you are streaming or making a youtube video as that could result in a DMCA! Joke aside, Voicemeeter Banana, what is it? Voicemeeter Banana is the second iteration of Voicemeeter, an audio mixing software that allows advanced audio mixing, which is also provided free. You can download voicemeeter by visiting their website.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://voicemeeter.com/&quot;&gt;Voicemeeter Website for downloads&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Voicemeeter Banana comes with three hardware inputs, two software digital inputs, and three hardware outputs. For reference, hardware inputs are typically hardware devices pushing audio into the computer, such as microphones, line inputs, and other things like that. The software or digital input is a driver on the system that allows audio to be pushed to it, they help with threading audio around. Hardware outputs are your headphones, speakers and can also be a digital audio driver.&lt;/p&gt;
+
+&lt;h2 id=&quot;installing-voicemeeter-banana&quot;&gt;Installing Voicemeeter Banana&lt;/h2&gt;
+
+&lt;p&gt;I think the best way to explain Voicemeeter Banana is to set it up and explain along the way. This gives us a more hands on approach which we can test actively. I will cover setting up Voicemeeter in this way: Hardware Outputs, Digital Inputs, then Hardware Inputs. My reason for this is it is hard to test if we have any of the inputs set up but don’t have proper outputs set up. So please install Voicemeeter Banana and the free Virtual Audio Cable that comes with it, you may be required to restart your computer.&lt;/p&gt;
+
+&lt;p&gt;Location of Virtual Audio Cable in Voicemeeter after installation:
+‘C:\Program Files (x86)\VB\Voicemeeter’&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-up-voicemeeter-banana&quot;&gt;Setting up Voicemeeter Banana&lt;/h2&gt;
+
+&lt;p&gt;Please open Voicemeeter Banana.&lt;/p&gt;
+
+&lt;h3 id=&quot;saving-settings-loading-settings-resetting-settings&quot;&gt;Saving Settings, Loading Settings, Resetting settings&lt;/h3&gt;
+&lt;p&gt;Something that typically gets skipped in other Voicemeeter coverage that I’ve seen is the ability to save settings. At any point you can save your current settings of Voicemeeter by going to Menu→Save Settings. This saves a settings file on your computer you can then Menu-&amp;gt;Load to load any saved settings from just a file even on other devices should you want to transfer your settings to another device. If at any point you feel lost and want to restart the setup, you can go to Menu→ Reset Settings (Re-Initialization) and this will make Voicemeeter appear as if you had just installed it, blank with nothing set up.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/voicemeeter/vm_save_load_reset_settings.webp&quot; alt=&quot;Image for showing where the menu and save/load/reset settings are&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;audio-outputs&quot;&gt;Audio outputs&lt;/h3&gt;
+&lt;p&gt;The Hardware Outputs section in the top right should have A1, A2, A3 with a triangle beside them. Each one of these have a selectable menu for our output devices. Each input device has a toggle-able setting for us to push audio to each individual output device, which will get better explanation when we get to inputs. For now, click on A1 and select your headphones. Click on A2 and select the virtual audio cable.&lt;/p&gt;
+
+&lt;p&gt;Your A1, A2, and A3 section should look a little something like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/voicemeeter/vm_hardware_outputs.webp&quot; alt=&quot;Voicemeeter Hardware Outputs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Below the hardware output selection you will see a bunch of vertical bars, for now we will leave these alone until we have audio pushing through them. For that, we will start by pushing computer audio to them through a digital inputs.&lt;/p&gt;
+
+&lt;h3 id=&quot;digital-inputs-and-windows-audio&quot;&gt;Digital Inputs and Windows Audio&lt;/h3&gt;
+&lt;p&gt;For digital inputs we will be looking at the middle columns of Voicemeeter Banana which should look a little something like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/voicemeeter/vm_digital_inputs.webp&quot; alt=&quot;Voicemeeter Digital Inputs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To set our Windows Default Audio to push through these digital inputs we need to open Windows Sound Settings by right clicking on the speaker icon that adjusts our audio in the task bar. After right clicking select ‘Open Sound Settings’, (alternatively you can open the windows start menu and type ‘sound settings’ and it should show up for you to open). You should see a window that with these:&lt;/p&gt;
+
+&lt;p&gt;Sound-
+Choose your output device:
+Select VoiceMeeter Input (VB-Audio Voicemeeter VAIO) as the default&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/voicemeeter/windows_sound_output.webp&quot; alt=&quot;Windows Default Audio Selection&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After setting VB-Audio Voicemeeter VAIO as our default output device pull up Voicemeeter Banana. In the middle under the Voicemeeter VAIO section we should see the audio levels rising and lowering if you play sounds on our computer. Do you? Great! If not? Try again! Also, if you happen to be having any issues please don’t hesitate to pop into the Library discord for assistance. Link to discord here: &lt;a href=&quot;https://discord.streamsounds.tv&quot;&gt;StreamSounds Discord Server&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You may, or may not, be able to hear these right away, if not just take a look in the column down at the A1, A2, A3 and select the ones for the headphones. If you set up along with the tutorial it should be A1. At this point you should be able to hear the audio going through your headphones which will show in the bottom right level bars under the A1 column.&lt;/p&gt;
+
+&lt;p&gt;Bottom right Hardware Outputs audio with audio pushed through.&lt;/p&gt;
+
+&lt;p&gt;You will notice this has a bunch of different options, including a mono toggle and a mute toggle! When the mono toggle is activated, it makes all stereo input to that output turn into mono output and split the same combined signal over both the left and right channels evenly. The mute toggle will mute the output to that device explicitly. At this point you should be hearing your computer audio going through and being pushed to your headphones.&lt;/p&gt;
+
+&lt;h3 id=&quot;hardware-inputs-and-microphone&quot;&gt;Hardware inputs and microphone&lt;/h3&gt;
+&lt;p&gt;Are you ready to set up a microphone? I am! Alright, so microphones. In the far left section, Hardware Inputs, there should be a ‘Select your device’ listing. Click this and you should get an option between a bunch of different things. Select the WDM version of your microphone for now. We will discuss the different versions of the drivers in a different article.&lt;/p&gt;
+
+&lt;p&gt;Picture of a microphone selected in Hardware Inputs section:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/voicemeeter/vm_microphone_selected.webp&quot; alt=&quot;Voicemeeter Microphone Selected&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will now notice, if your microphone is unmuted, it should be moving the audio bar under that device listing. If you want to hear what is going through the microphone you can push the A corresponding to your headphones. If you set them up following this tutorial then they should be A1. Can you hear yourself? Good! If not, make sure your microphone doesn’t have a physical mute toggle on it and that it isn’t muted. If that isn’t the issue, you can also check windows sound settings under Recording Devices to see if the input level is too low. Windows can sometimes default audio levels on updates.&lt;/p&gt;
+
+&lt;p&gt;You may have noticed we haven’t done anything with A2 or A3 yet. If you followed the tutorial we will have set A2 Hardware Output to a Virtual Audio Device. If you select A2 on the Voicemeeter VAIO input, and the Microphone input, you will see down in the right corner the audio level bar for A2 moving. The reason we set up this Virtual Audio Devices is to pull into OBS.&lt;/p&gt;
+
+&lt;p&gt;Picture of Audio bars moving after A1 and A2 set:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/voicemeeter/audio_bars_moving_after_A1_A2_set.webp&quot; alt=&quot;Voicemeeter VAIO and A1, A2 audio levels moving after properly set&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;obs-audio-and-alerts&quot;&gt;OBS Audio and alerts&lt;/h3&gt;
+&lt;p&gt;Lets get our audio into OBS! Open OBS and go to Settings → Audio. For this all we do is set Desktop Audio to Cable Input (VB-Audio Virtual Cable). Disable everything else since we are using Voicemeeter Banana to route and mix all our audio to one place.&lt;/p&gt;
+
+&lt;p&gt;It should look a little something like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/voicemeeter/obs_audio_settings.webp&quot; alt=&quot;OBS Audio Settings&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You might ask, what about alerts? I’m going to wager your alerts are being pulled into your OBS via browser source.  You set these up your normal way and when you do make sure to set Control Audio Via OBS. This will give you an Audio level bar in the Audio Mixer portion of OBS.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/voicemeeter/obs_properties_for_alerts.webp&quot; alt=&quot;OBS Properties for Alerts Source&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will notice a cog options menu icon beside the specific Audio source in the Audio Mixer. Click this and you will see a menu and something that reads Advanced Audio Properties which opens a window like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/voicemeeter/obs_advanced_audio_properties.webp&quot; alt=&quot;OBS Alerts Advanced Audio Properties&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Select Monitor and Output for the Alerts you want to hear.&lt;/p&gt;
+
+&lt;p&gt;Then go into Settings→Audio→Advanced section→Monitoring Device: Set this to VoiceMeeter Aux Input (VB-Audio VoiceMeeter AUX VAIO):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/voicemeeter/OBS_Alerts_Output.webp&quot; alt=&quot;Settings OBS Monitoring Device&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now go to your Voicemeeter Banana application and test some Alerts. You should see the Voicemeeter AUX audio bouncing around. Since we are pulling the audio into OBS via Browser Source and both Outputting and Monitoring. All we need is to push this audio to our headphones so we can hear when things happen. So select whichever A# is your headphones and test again to make sure you can hear it.&lt;/p&gt;
+
+&lt;p&gt;Image of Voicemeeter AUX being pushed to headphones and not back into the virtual audio driver/device going into obs so the stream doesn’t get echo’d alerts.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/voicemeeter/voicemeeter_aux_to_headphones.webp&quot; alt=&quot;Voicemeeter AUX pushed to headphones and not into virtual audio driver&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I believe this should cover everything to get started with Voicemeeter Banana. However, if you have any trouble please join the &lt;a href=&quot;https://discord.streamsounds.tv&quot;&gt;StreamSounds Discord Server&lt;/a&gt; to get the help you need with setting up Voicemeeter or if you have any questions about audio, audio mixing, microphones, OBS, streaming, and other things. We would love to have a chat about things and look forward to learning, teaching and assisting in many different things. Not just audio! Just like a library is full of random knowledge collected, we wish to grow our own knowledge and share it with others. So please come join us in the sharing.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://library.streamsounds.tv/voicemeeter-banana/</link>
+        <guid isPermaLink="true">https://library.streamsounds.tv/voicemeeter-banana/</guid>
+        
+        
+        <category>audio</category>
+        
+      </item>
+    
+      <item>
+        <title>Introduction to Mixing Audio - How to not sound like a Dial Up Modem</title>
+        <description>&lt;p&gt;What is audio mixing? Is it helpful or a hindrance? What are my options for mixing audio and how much does it cost?&lt;/p&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;Audio mixing, what is it? Audio mixing is where you take multiple input sources of audio and put them into one or two different output signals. An example of input sources would be a microphone, game audio, stream alert audio. An example of an output signal would be the signal sent to our headphones, speakers, or stream. Can you achieve audio mixing for streams and videos without a digital or physical audio mixer? Mostly, but in practice it is significantly more complicated to route audio properly without using some form of audio mixing software or hardware when dealing with multiple sources.&lt;/p&gt;
+
+&lt;h3 id=&quot;goals-of-audio-mixing&quot;&gt;Goals of Audio Mixing&lt;/h3&gt;
+
+&lt;p&gt;The goals of audio mixing can be as simple as taking a microphone and game audio then pushing it to a single output. They can also be as elaborate as combining one or more microphones, game audio, alerts, computer sounds, and music. Each having their own source to pull audio from then pushing that audio to two or more outputs, headphones, broadcast software such as OBS or SLOBS, or discord. Of course we don’t want our stream audio going to friends on discord, and we don’t want our mic audio going to our speakers if we aren’t using headphones at the moment.&lt;/p&gt;
+
+&lt;p&gt;This is where audio mixing software and hardware comes into play. Audio mixing allows us to properly route our audio to where it needs to be and often times gives it a boost in quality, while also making it easier to handle unlike windows sound settings and such. Having more options can be daunting at times, especially when just starting out, but once you get the hang of it, more often than not it saves so much more time and provides you with better quality than if you just went without.&lt;/p&gt;
+
+&lt;h3 id=&quot;audio-mixing-options&quot;&gt;Audio Mixing options&lt;/h3&gt;
+
+&lt;p&gt;Are you interested in having more control over your audio? Lets go over our options then!&lt;/p&gt;
+
+&lt;h6 id=&quot;mixing-in-obs&quot;&gt;Mixing in OBS?&lt;/h6&gt;
+&lt;p&gt;You might say OBS has its own audio mix, that is true. However, just like using windows, it can be complicated. First you have to find audio levels in windows that suite yourself, so you can hear the game and other things. Then you have to pull the audio directly into OBS and try and manage it there. It can be a complete mess because the audio levels are already being adjusted for your hearing first. Optionally, if you adjust for the OBS Mix first, the levels for you hearing the audio will also be affected, too high, too low, and when you adjust the audio levels going to your headphones it will then adjust the levels in OBS. Big wonky mess right?&lt;/p&gt;
+
+&lt;h6 id=&quot;goxlr-goxlr-mini-elgato-wave&quot;&gt;GoXLR, GoXLR-Mini, Elgato Wave&lt;/h6&gt;
+&lt;p&gt;I’m sure every streamer has heard of a GoXLR or GoXLR-Mini which come with software mixing alongside hardware controls. There is also the Elgato Wave microphones which come with similar software mixing and some hardware controls. Between the current writers for the Library by Stream Sounds, no one has either a GoXLR, GoXLR-Mini, or Elgato Wave microphone. We are interested in pulling in someone who does have these devices and would like to add some articles on these devices to the Library.&lt;/p&gt;
+
+&lt;h6 id=&quot;physical-mixers&quot;&gt;Physical Mixers&lt;/h6&gt;
+&lt;p&gt;Physical mixers are also available of various sizes and prices that stretch from less than $50 US Dollars to well over $500 to even $1000s. These beastly devices offer physical nobs and sliders for customization and take up a bit more space than a GoXLR but in some cases not by much or at all as some of them can be fairly small. However, their prices range from significantly lower than even a GoXLR-Mini or even cheaper then the Elgato Wave. For instance, the Behringer Xenyx Q1202USB 12-Channel Mixer can be found on amazon for $150 USD but I have seen it as low as $109 USD.&lt;/p&gt;
+
+&lt;h6 id=&quot;voicemeeter&quot;&gt;Voicemeeter&lt;/h6&gt;
+&lt;p&gt;Finally, there is Voicemeeter, something either mostly unheard of or often not spoken. Voicemeeter is a digital mixing software for windows designed to help thread and control audio similar to a physical mixer, except that it is an application ran on windows. I wanted to learn what audio mixing was like before investing into equipment. Voicemeeter allowed me to learn the basics of audio mixing and helped determine just how far I wanted to go with audio mixing without having to spend any money. After heavily investing time into Voicemeeter.&lt;/p&gt;
+
+&lt;p&gt;I recommend skipping basic Voicemeeter and starting with Voicemeeter Banana. Banana has sufficient features to get started and covers nearly everything a streamer may need when wanting to improve their audio. Voicemeeter Banana is free and we also covered it in an article, which details some of the features and has a setup guide to help get you started.&lt;/p&gt;
+
+&lt;h3 id=&quot;related-articles&quot;&gt;Related Articles&lt;/h3&gt;
+
+&lt;p&gt;Voicemeeter Banana Article: &lt;a href=&quot;/voicemeeter-banana/&quot;&gt;Voicemeeter Banana&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;At some point we would like to include different types of audio setups. I believe OGJunkyard is currently doing a piece on his entire streaming setup which will include a very in-depth audio setup. I have two different sized physical mixers and would like to cover each one both individually and comparatively together explaining my reasons for the upgrade and reasons I could have kept my old one and would have been just fine. As stated above, we are interested in working with someone to get articles on the GoXLR, GoXLR-Mini and the Elgato Wave, so if interested please hit us up!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://library.streamsounds.tv/an-introduction-to-mixing-audio/</link>
+        <guid isPermaLink="true">https://library.streamsounds.tv/an-introduction-to-mixing-audio/</guid>
+        
+        
+        <category>audio</category>
+        
+      </item>
+    
+      <item>
+        <title>How to use an iPhone as a webcam (EpocCam Review)</title>
+        <description>&lt;p&gt;After moving into a new place with my girlfriend and COVID-19 restrictions hit, we both found ourselves needing webcams to use for our day job. As a streamer, I had a couple of Logitech C920s that we ended up dedicating to our day jobs. This meant I no longer had access to those webcams for other OBS scenes like my dog cam.&lt;/p&gt;
+
+&lt;p&gt;After looking at what another C920 webcam would cost (at the time $150+ when they are normally $60-$70), I started looking around for other options that didn’t cost so much. Research led me to an iOS app called EpocCam by Elgato. I dug into EpocCam, and I came away quite impressed.&lt;/p&gt;
+
+&lt;p&gt;Before we get into the post, I just wanted to say that if you need any help getting EpocCam setup or you have any questions about it, go ahead and ask us questions in the &lt;a href=&quot;https://discord.streamsounds.tv&quot;&gt;StreamSounds Discord Server&lt;/a&gt;. We’d LOVE to help you improve your setup!&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-elgato-epoccam&quot;&gt;What is Elgato EpocCam?&lt;/h3&gt;
+&lt;p&gt;Elgato EpocCam is an app for iPhones and iPads that allows you to use the device as a webcam on your computer (both PC and MacOS). There are two versions of the EpocCam app (EpocCam and and EpocCam Pro) in the App Store. The basic EpocCam app will allow you to try out the main features of the app before you pay for the EpocCam Pro app. The pro version of the app is what you’d want to actually use if you decided to actually incorporate this into your setup.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-features-are-available-in-the-epoccam-app&quot;&gt;What features are available in the EpocCam app?&lt;/h3&gt;
+
+&lt;p&gt;As mentioned before, there are two versions of the EpocCam app. When you look into EpocCam app, realize that the basic version of the app is pretty much only for you to test out the features and decide if you should pay for the pro version.&lt;/p&gt;
+
+&lt;p&gt;Here’s a list of features found in the basic EpocCam app:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Stream video from your Apple device at a resolution of 640x480 at 30 Frames Per Second.&lt;/li&gt;
+  &lt;li&gt;Horizontally flip your video.&lt;/li&gt;
+  &lt;li&gt;Switch between using the front and rear cameras on your Apple device.&lt;/li&gt;
+  &lt;li&gt;Automatically connect to your computer via USB or WiFi. You don’t get to choose the connection type, though.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The very basic list of features should get you just enough to figure out if the app will work for your use case(s). The cost to purchase the EpocCam Pro app is $8 USD.&lt;/p&gt;
+
+&lt;p&gt;Here’s a list of extra features you’ll find in the pro version on top of the features you find in the basic app:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Choose the “quality” of your video feed to your computer. “Best” quality is 1920x1080 (1080p), “Good” quality is 1280x720 (720p), and “Fair” quality is 640x480 (480p). All resolutions stream at 30 frames per second.&lt;/li&gt;
+  &lt;li&gt;Choose the type of connection you are using to connect your phone to your computer. Choose between USB, WiFi, or NDI (a special IP-based connection over WiFi).&lt;/li&gt;
+  &lt;li&gt;Specify the zoom level if you have multiple cameras.&lt;/li&gt;
+  &lt;li&gt;Add in the audio from the Apple device with your video feed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The pro version also allows you to put a really, really bad chromakey behind you. Please don’t buy the pro version expecting to use this instead of a proper green screen/chromakey. It is not worth it.&lt;/p&gt;
+
+&lt;h3 id=&quot;whos-the-app-for&quot;&gt;Who’s the app for?&lt;/h3&gt;
+&lt;p&gt;The EpocCam app is for anyone looking to add a higher-quality webcam to their computer and has an iPhone or iPad. EpocCam is easy to use and straightforward to set up. I think it really shines for streamers who are just starting out because this could very well be the best budget webcam for Twitch. It will allow you to have a cheap webcam that is good quality without investing a ton of money into your streaming set up. I often hear about streamers who have invested hundreds or even thousands of dollars into their setup, only to stop streaming entirely just a few months later.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-about-android&quot;&gt;What about Android?&lt;/h3&gt;
+&lt;p&gt;This article is about EpocCam, which is currently an Apple-device-only app after Elgato acquired the software. I don’t have access to a newer Android device to test Android apps that do the same thing as EpocCam, but I am aware of a few apps that you may want to try. I’m going to link to a couple, but be warned that I can’t vouch for their quality.&lt;/p&gt;
+
+&lt;p&gt;Here’s a few Android apps that I’ve come across in my search:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.e2esoft.ivcam&amp;amp;hl=en_US&amp;amp;gl=US&quot;&gt;iVCam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.dev47apps.obsdroidcam&quot;&gt;DroidCam OBS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.jacksoftw.webcam&quot;&gt;Iriun Webcam&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(Flav might be able to test some of these out and do a write up on them at a later date.)&lt;/p&gt;
+
+&lt;h3 id=&quot;what-do-i-need-to-use-the-epoccam-app&quot;&gt;What do I need to use the EpocCam app?&lt;/h3&gt;
+&lt;p&gt;In order to use the EpocCam app, you’ll need at least an iPhone or iPad that can run iOS 13.0 / iPadOS 13.0 or later (at the time this was written). This means the following devices are supported:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;iPhone 6s/6s Plus, iPhone SE, and newer. Basically, any iOS device from 2015 or newer.&lt;/li&gt;
+  &lt;li&gt;iPod touch (7th generation)&lt;/li&gt;
+  &lt;li&gt;iPad (5th generation and newer), iPad mini 4 and newer, iPad Air 2 and newer. Pretty much any iPad device from 2015 or newer.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If your device is older than this, you may not be able to run the app. However, my very old iPad Mini 2 (Model A1489) was able to pull an older version of the app from the app store and it worked the exact same. At the very least, look it up in the app store, try to install it, and see what happens.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/app/id435355256&quot;&gt;Click here to see the EpocCam app in the App Store.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The app also requires you to install drivers on your PC or Mac in order for your Apple device to show up as a webcam, which you can find on Elgato’s website. We’ll link to them in the next section.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-do-i-install-and-start-using-the-epoccam-app&quot;&gt;How do I install and start using the EpocCam app?&lt;/h3&gt;
+
+&lt;p&gt;The EpocCam app is easy to install and begin using. It consists of four main steps:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://apps.apple.com/app/id435355256&quot;&gt;Download the app from the App Store.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.elgato.com/en/epoccam&quot;&gt;Install the drivers for EpocCam on your computer. Click here to find the drivers for your computer. You may need to scroll down to the installation steps to find them.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Launch the app and connect your phone to your computer via USB or WiFi.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Set EpocCam as your webcam of choice in your desired software.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If these instructions don’t work for you or they seem out of date, &lt;a href=&quot;https://www.elgato.com/en/epoccam&quot;&gt;click here to find the latest instructions on Elgato’s website.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-it-like-to-use-the-epoccam-pro-app&quot;&gt;What is it like to use the EpocCam Pro app?&lt;/h3&gt;
+
+&lt;p&gt;For the remainder of this article, I’ll be talking about pro version of the EpocCam app.&lt;/p&gt;
+
+&lt;p&gt;The app is easy to use. It’s simple to set up, it opens quickly, and automatically connects to your computer if it can connect via WiFi or USB. It remembers the settings between launches of the app. When you add all of this together, it makes getting a camera up and running on your stream very easy.&lt;/p&gt;
+
+&lt;p&gt;It’s nice to be able to choose the quality of the video feed I’m sending from my phone to the computer. Having the option to quickly flip the image horizontally also makes it nice to be able to use this app outside of streaming as well.&lt;/p&gt;
+
+&lt;p&gt;I greatly appreciate the ability to use the cameras on the back of the Apple device. This takes the quality of your camera up a notch by being able to use those nicer cameras on the back.&lt;/p&gt;
+
+&lt;p&gt;I greatly appreciate the ability to use this app over USB. USB establishes a more reliable connection for the EpocCam app while also keeping the device powered up, so I don’t have to worry about running out of power while I’m on the go. If you set the app to automatically switch to WiFi if you disconnect it from USB, EpocCam gives you the ability to keep a video connection going without any hassle when you want to show something else around your house/studio.&lt;/p&gt;
+
+&lt;p&gt;I was honestly surprised by the quality of video feed that I got from the camera on my iPhone XS, which was way better than my Logitech C920 cameras. The quality on my iPad Mini 2 was even a little better than the Logitech C920, and the iPad Mini 2 came out in 2013!&lt;/p&gt;
+
+&lt;p&gt;It wasn’t all smooth sailing though and I hit a few bumps and bruises while I was figuring out if this app was something I wanted to use as part of my streaming setup long term.&lt;/p&gt;
+
+&lt;p&gt;If you navigate out of the app on your phone, your camera disconnects completely. It does leave a small spinning image indicating it’s trying to reconnect on your screen. The spinning image does not have a transparent background, so it will leave a big black box, covering up gameplay or whatever else you have going on.&lt;/p&gt;
+
+&lt;p&gt;The chromakey (green screen) functionality in EpocCam Pro is very bad. It cut out large portions of my bald head even with a darker background and solid lighting on myself. I wouldn’t use this feature at all.&lt;/p&gt;
+
+&lt;p&gt;I could not get the EpocCam app to connect my iPhone via USB to my Macbook Pro until I rebooted my Macbook Pro after installing the drivers. My PC didn’t have this problem. I still recommend rebooting your PC after ANY driver installation.&lt;/p&gt;
+
+&lt;p&gt;NDI lagged badly when connected over WiFi. The video alternated between smooth for a couple of seconds then very choppy for a few seconds. EpocCam Pro sometimes lost connection completely with the computer when connected over NDI.&lt;/p&gt;
+
+&lt;p&gt;If you are going to use WiFi to connect the phone to your computer, make sure you have a solid signal. An unreliable WiFi signal will cause your video to be choppy or cut out completely if the EpocCam app can’t get a solid connection to your computer.&lt;/p&gt;
+
+&lt;p&gt;My phone got very warm after about 15-30 minutes of using the Pro app. I’d recommend you not use a case on your device while using the EpocCam app.&lt;/p&gt;
+
+&lt;p&gt;There is no ability to control the finer features of your camera, such as white balance, ISO, shutter, etc. Whatever your camera looks like is what you get. You will be relying on your environment for the quality of your image, so make sure you have good lighting (as always, but especially so here). With most webcams, such as the Logitech C920, you WOULD get finer control for things like white balance, saturation, etc.&lt;/p&gt;
+
+&lt;p&gt;It isn’t clear how to make the app choose between autofocus or “on tap”. Focusing may just be whatever the default camera functionality of the phone decides to do.&lt;/p&gt;
+
+&lt;p&gt;You’ll need to figure out a mounting solution for your device, while most webcams can sit on your monitor easily. I found a decent phone holder that attached to my 2.25” desk on Amazon.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://amzn.to/2UlthHW&quot;&gt;Click here to buy the phone holder I use with the EpocCam app. (Amazon Affiliate Link)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;EpocCam is a great, cheap addition to just about any streamer’s setup, as long as they have an Apple device. It’s a cheap alternative to buying a much more expensive webcam that may or may not be as good of quality as what you’d find in your device. If I had just upgraded to a newer device and had a different Apple device lying around, I’d give this app a try.&lt;/p&gt;
+
+&lt;p&gt;As I mentioned earlier, if you have any questions about getting EpocCam setup or deciding if it’s right for your stream setup, go ahead and pop in the &lt;a href=&quot;https://discord.streamsounds.tv&quot;&gt;StreamSounds Discord Server&lt;/a&gt;. We’re there to help out and discuss ideas with to make your stream the best it can possibly be!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://library.streamsounds.tv/how-to-use-iphone-as-webcam/</link>
+        <guid isPermaLink="true">https://library.streamsounds.tv/how-to-use-iphone-as-webcam/</guid>
+        
+        
+        <category>webcam</category>
+        
+      </item>
+    
+      <item>
+        <title>What kind of music can I stream?</title>
+        <description>&lt;h1 id=&quot;dmca---what-is-it-why-is-it-bad-how-do-we-avoid-it-plus-dmca-safe-music&quot;&gt;DMCA - What is it? Why is it bad? How do we avoid it? Plus DMCA Safe Music!&lt;/h1&gt;
+
+&lt;h2 id=&quot;dmca---what-is-it&quot;&gt;DMCA - What is it?&lt;/h2&gt;
+
+&lt;p&gt;[&lt;dfn&gt;DMCA&lt;/dfn&gt;] is an acronym for the Digital Millennium Copyright Act. It is a U.S. copyright law which addresses the rights and obligations of owners of copyrighted material who believe their rights under the U.S. copyright law have been infringed. Necessary? Maybe. Should we adhere to it? Of course we should! How though? By abiding by copyright law.&lt;/p&gt;
+
+&lt;p&gt;TLDR: Provided is a list that is thoroughly vetted for terms and conditions and licenses that explicitly grants a user the allowance to use certain distributed music for either commercial/non-commercial usage. Whether it be in streaming, recorded content, or game development. They have been manually verified before being added to the list and, at the moment of publication, should be fine to use. Links for double checking the information are also provided. If you wish to skip past the rest of the content in this blog to get to the list you can.&lt;/p&gt;
+
+&lt;h2 id=&quot;dmca---why-is-it-bad&quot;&gt;DMCA - Why is it bad?&lt;/h2&gt;
+
+&lt;p&gt;So why are DMCA strikes/takedowns bad? Well, for one it gets your content pulled from being viewable. The big thing though is it can potentially get you banned, and in a worse scenario, fined and jail time. Sadly, life is not monopoly and we don’t really get any get out of jail free cards. Alrighty then, is that all? Yes, no, maybe?&lt;/p&gt;
+
+&lt;h2 id=&quot;dmca---how-do-we-avoid-it&quot;&gt;DMCA - How do we avoid it?&lt;/h2&gt;
+
+&lt;p&gt;The key question to answer might be ‘how do we avoid DMCA strikes and takedowns’? That has an extremely easy answer, obtain the rights to do the things with the music and sounds. How do we do this? That is a good question and one I can answer. Within terms of services, or licensing agreements, there is laid out details of what can be done with music. For instance, a specific set of terms I look for before adding to this list is, 2-The premium license allows you: Project for commercial or non-commercial distribution without limitation for: -Streaming (example YouTube, Vimeo, Dailymotion, Twitch…). Yes, I know that is a mouthful to an extent, but what you need to see is it explicitly states that with a ‘premium license’ you are given the right to use the music commercially. A big boon to this is that it also includes specifically streaming. This license prevents the copyright holder from being able to take down and or monetize your stuff because they have granted you these explicit rights with their music. The key terms are for commercial use and if it includes streaming or video content then even better!&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;In final, this is a big thing, especially so since a lot more musicians and sound creators are acknowledging the need and reach that streaming and other content creation have. Thus, we receive better licensing defining that we can use certain music for streaming, youtube videos, and game development. Whether this will put enough strain on those top 100 playlist copyrights or not, who knows? What it will do is show that there is value in our endeavor to find DMCA-Free stuff, whether it is for purchase or not, and that will help the collective growth of this type of music.&lt;/p&gt;
+
+&lt;h2 id=&quot;thank-you-for-your-time&quot;&gt;Thank you for your time&lt;/h2&gt;
+
+&lt;p&gt;Thank you very much for your time, please leave a like, subscribe, the heart thing or what is it on these blog posts? Oh.. right, we don’t get those here.. maybe later? Now with my little jest out of the way, here is the list of DMCA-Free music that I have curated.&lt;/p&gt;
+
+&lt;!--### &amp;lt;hr&amp;gt; Horizontal Line--&gt;
+&lt;hr /&gt;
+
+&lt;!--
+## Tables
+
+Even tables are responsive thanks to foundation. A table can consist of these elements.
+--&gt;
+
+&lt;h3 id=&quot;dmca---safe-music&quot;&gt;DMCA - Safe Music&lt;/h3&gt;
+&lt;p&gt;The following is a list of DMCA-Safe Music, Tunes, Sound effects for usage on things like live streaming, youtube videos, and game development. This list is based on facts that it provides necessary licensing to battle any DMCA claim and should be safe from receiving DMCA claims as long as you follow the requirements set by the provider. Some are paid options and some are available for free with requirements like citing and credits being given (please read their terms).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/19NMv14UuoQFea0uvkcYdNQlefyyuR0_mVMzbg_x0rGM/edit?usp=sharing&quot;&gt;DMCA-Safe Music&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--
+&lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
+&lt;!--
+&lt;/div&gt;&lt;!-- /.row --&gt;
+</description>
+        <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://library.streamsounds.tv/What-Kind-Of-Music-Can-I-Stream/</link>
+        <guid isPermaLink="true">https://library.streamsounds.tv/What-Kind-Of-Music-Can-I-Stream/</guid>
+        
+        
+        <category>Music</category>
+        
+        <category>DMCA</category>
+        
+        <category>Audio</category>
+        
+      </item>
+    
+      <item>
+        <title>Introducing the Library by StreamSounds</title>
+        <description>&lt;p&gt;Hey folks, OGJunkyard here.&lt;/p&gt;
+
+&lt;p&gt;I wanted to take a moment and give you the backstory behind the Library by StreamSounds. I also wanted to tell you why I thought it would help the Twitch community. I ALSO wanted to tell you why I’m doing this, because I think transparency, openness, and honesty are important. So, this will be broken into three parts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Backstory behind the Library by StreamSounds&lt;/li&gt;
+  &lt;li&gt;Why this will be helpful to streamers&lt;/li&gt;
+  &lt;li&gt;OGJunkyard’s motivations and his promise to you&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-backstory-behind-the-library-by-streamsounds&quot;&gt;The Backstory behind the Library by StreamSounds&lt;/h3&gt;
+
+&lt;p&gt;I had been streaming on Twitch for two years solidly when I got the idea to post helpful content about what I learned about streaming without any strings attached. So, I started looking around the communities I was a part of, the people I was following on various websites, and looking at their content while thinking to myself, “How useful is this actually? Can I actually reproduce these results myself?” I had also started a company called StreamSounds and thought this could be a good way to put value out into the world to start getting some traction and eyeballs on what StreamSounds offered, while also setting StreamSounds up for success when the product that I wanted to launch came out of alpha/beta.&lt;/p&gt;
+
+&lt;p&gt;I started talking to one of my regular viewers, FlavCreations, who has been very helpful in my stream and in another community we are both a part of called Infinite Quality. He ended up liking the idea, so we decided to try to come up with a way to share our ideas. I pitched Flav the idea of putting out content that could be proven and repeatable, which he seemed to like, so we decided to give it a shot.&lt;/p&gt;
+
+&lt;p&gt;Flav and I kicked around a handful of ideas what to call this. We thought the terms “school” or “university” was a bit too formal, as if we were trying to provide full-blown courses. Flav came up with the idea for a “library” of content, on the basis of people giving information and books in a shared communal environment. I thought it was a great idea, so here we are.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-this-will-be-helpful-to-streamers&quot;&gt;Why this will be helpful to streamers&lt;/h3&gt;
+
+&lt;p&gt;Let’s talk about why we believe the Library by StreamSounds will be helpful to the streaming community at large.&lt;/p&gt;
+
+&lt;p&gt;Our primary goal with the Library is to give you good advice and resources that you can implement, think about, rely on, and trust. We want to first and foremost be helpful to you, a streamer and/or content creator. We want you to be a more successful streamer at the end of the day AND we understand that success looks different for everyone who streams. Just so we are on the same page, here’s what success might look like for some people:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Success for one person is having a lot of people watch them.&lt;/li&gt;
+  &lt;li&gt;Success for another person might be making a living through content creation.&lt;/li&gt;
+  &lt;li&gt;Success for a third person might be exploring technology and seeing if they can bring their ideas to life through streaming.&lt;/li&gt;
+  &lt;li&gt;Success for someone in our final example might just be streaming as a way to destress after a long day’s work.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here’s how we want to engage with the streamer community at large through the Library by StreamSounds:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;We will do our best to “prove out” content on the Library by StreamSounds. We will pass it through review amongst ourselves, we’ll do our best to poke holes in the content up for review to flesh it out the best we can, and we’ll try to answer the questions that come up by the community. Our content will not be perfect, but we’re giving you a handshake agreement that we’ll try our best.&lt;/li&gt;
+  &lt;li&gt;Content may change over time as our understanding of the topic changes. Something that may be valid at one point may change or become useless or even detrimental later. Circumstances evolve, companies bring out new products and shut down others, governments tweak laws, and the only constant in life is change.&lt;/li&gt;
+  &lt;li&gt;We will accept content from the community and actively encourage your input, feedback, advice, opinions, and content. We have not yet come up with a way for the community to contribute yet, but we’ll do this our best to get this out in a reasonable way. There’s no guarantee that something will be accepted right away or at all, however, as it may not be up to the standards we want to hold for a variety of reasons (such as not thorough enough, too fragmented of an idea, etc.).&lt;/li&gt;
+  &lt;li&gt;We may make money off this content through things like affiliate links or sponsorships, but that’s not the driving goal behind this site. When we do make money, we will explicitly call it out and make sure you are aware of it.&lt;/li&gt;
+  &lt;li&gt;We will do our best to put every piece of content through rigorous review and scrutiny. We want each piece of content to be the best piece of content about that topic that we can come up with.&lt;/li&gt;
+  &lt;li&gt;There are no guarantees of success on this website. There will not be guarantees of success either. We understand that not everyone approaches streaming the same way. Something that works well for one person may not be usable by another person. At the end of the day, just because you implement something you found on the Library by StreamSounds does not mean it will work for you in the way you expected or at all. Think of the content that gets put out here as friend-to-friend advice.&lt;/li&gt;
+  &lt;li&gt;We will do our best to give fair and honest reviews, advice, and help about products, services, and tools that we find and use in the service of streaming. If we think an offering is the best in class, we will say that. If we think it comes up short in an area, we will say that too.&lt;/li&gt;
+  &lt;li&gt;In a situation where we are comparing products or services, StreamSounds (the product/service) will not be included in the comparison as that would be a conflict of interest. There is no way this situation would ever be considered a fair comparison by the broader community, so we want to call it out ahead of time as one of our commitments to you.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;ogjunkyards-motivations-and-his-promise-to-you&quot;&gt;OGJunkyard’s motivations and his promise to you&lt;/h3&gt;
+
+&lt;p&gt;I know I’ve mentioned it already, but I want to be explicitly clear about what I’m looking to do with the Library by StreamSounds. I want to put the best advice that we can come up in the streaming/Twitch community in one place. I also want to raise the profile of StreamSounds (the company and product/service) within the streaming community.&lt;/p&gt;
+
+&lt;p&gt;I want the Library by StreamSounds to be a place where you get information and advice that you can trust. I want you to look at the content in the Library as something that has been tested and validated. We’ll do our best to call a spade a spade, so to speak. We’ll also do our best to steer clear of conflicts of interest, but understand that we may make mistakes from time to time. If you see something as an issue or want to provide feedback about something, please reach out to us.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://library.streamsounds.tv/introducing-the-library/</link>
+        <guid isPermaLink="true">https://library.streamsounds.tv/introducing-the-library/</guid>
+        
+        
+        <category>about us</category>
+        
+      </item>
+    
+  </channel>
+</rss>
